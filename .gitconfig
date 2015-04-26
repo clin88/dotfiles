@@ -1,0 +1,18 @@
+[user]
+    name = Chen Lin
+    email = clin_@berkeley.edu
+    
+[color]
+    ui = auto
+
+[alias]
+    st = status --short
+    slog = log --oneline --graph --decorate=short
+    br = branch
+    ci = commit
+    co = checkout
+    rb = rebase
+   sloga = log --oneline --graph --decorate=short --all
+    amend = commit --amend
+[core]
+    editor = /usr/bin/vim
