@@ -56,3 +56,4 @@ alias scl='defaults write com.apple.screencapture location'
 # PROMPT='[%n@%m:%c]%# ' # default prompt
 RPROMPT='[%* on %D]' # prompt for right side of screen
 
+[[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh ]]
