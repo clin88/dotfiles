@@ -3,7 +3,8 @@ if has('vim_starting')
   set runtimepath+=~/.vim/bundle/neobundle.vim/
 endif
 
-call neobundle#rc(expand('~/.vim/bundle/'))
+set runtimepath+=~/.vim/bundle/neobundle.vim/
+call neobundle#begin(expand('~/.vim/bundle/'))
 
 """""""""""""""""""""""""""""""""""
 " PLUGINS
@@ -164,6 +165,10 @@ let g:pymode_rope_lookup_project = 0
 " TODO: Vimseek
 " TODO: Cursorcolumn
 
+
+call neobundle#end()
+filetype plugin indent on
+NeoBundleCheck
 
 " {{{ EDITOR CONFIG
 runtime! plugin/sensible.vim                       " Keeps sensible from overriding my settings
