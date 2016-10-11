@@ -7,20 +7,15 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" timestamp="1476161251763">
         <mark key="'" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/go-auto-profiler/example_service/main.go" timestamp="1476119102987">
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="77" column="16" />
-        <mark key="^" line="77" column="16" />
-        <mark key="." line="77" column="16" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hailstorm.py" timestamp="1476161061112" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hw_efficiency.py" timestamp="1476161280514" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/__init__.py" timestamp="1476161369868" />
+      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/system/lvm.pp" timestamp="1476217240902" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1476147284283" />
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/role/docker.pp" timestamp="1476211987622">
+      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/role/docker.pp" timestamp="1476217250569">
         <mark key="j" line="59" column="35" />
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
