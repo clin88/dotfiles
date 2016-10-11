@@ -3,14 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.virtualenvs/promo/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1476218303852" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/all_active.py" timestamp="1476161375258" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" timestamp="1476161251763">
         <mark key="'" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/code/promotions/promotions/celery.py" timestamp="1476217929363" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hailstorm.py" timestamp="1476161061112" />
+      <file name="/a.dummy" timestamp="1476218283503">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hw_efficiency.py" timestamp="1476161280514" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/__init__.py" timestamp="1476161369868" />
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/system/lvm.pp" timestamp="1476217240902" />
@@ -31,10 +36,6 @@
         <mark key="'" line="120" column="17" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/harvest/harvest_commons.py" timestamp="1476160154191" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/config.go" timestamp="1476148247212">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="53" />
-      </file>
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/clusto/api.pp" timestamp="1476216265432" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476159709613">
         <mark key="'" line="77" column="0" />
