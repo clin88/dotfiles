@@ -3,27 +3,97 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476144900480" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476148909414">
+        <mark key="'" line="166" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/go-auto-profiler/example_service/main.go" timestamp="1476119102987">
         <mark key="[" line="77" column="24" />
         <mark key="]" line="77" column="16" />
         <mark key="^" line="77" column="16" />
         <mark key="." line="77" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476144784379">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="19" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="30" column="19" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/config.go" timestamp="1476148247212">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="53" />
       </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476149131076">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="9" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1476147284283" />
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="53" column="20" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="58" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="14" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="15" column="27" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="16" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="33" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" />
+      <jump line="31" column="19" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="76" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" />
+      <jump line="166" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNhc2UgIiIK</text>
+      </register>
+      <register name="-" type="4">
+        <text>GetAllByType</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjbGllbnRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQl2LCBlcnIgOj0gY2x1c3RvLkdldEFsbEJ5VHlwZShvcy5BcmdzWzJdKQoJCWlmIGVyciAhPSBuaWwgewoJCQlmbXQuUHJpbnRmKCJlcnJvciIsIGVycikKCQl9CgoJCWZtdC5QcmludGYoIiV2IiwgdikK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CWNhc2UgIiIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQl2Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZm10LlByaW50KCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXZhciBjZmcgYXBwQ29uZmlnCglpZiBlcnIgOj0gY29uZmlnLkxvYWQoJmNmZyk7IGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbGYoIkVycm9yIGluaXRpYWxpemluZyBjb25maWd1cmF0aW9uOiAlcyIsIGVycikKCX0KCWxvZy5Db25maWd1cmUoJmNmZy5Mb2dnaW5nLCBjZmcuVmVyYm9zZSkKCWxvZy5Db25maWd1cmVTZW50cnkoJmNmZy5TZW50cnkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWNsdXN0by5HZXQoIiIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQljbHVzdAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWNsdXN0byA6PSBjbHVzdG8uTmV3Q2xpZW50KGNmZy5DbHVzdG8pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cglmb3Igewo=</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxjbGllbnRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjbGllbnRcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxhcHBDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxjZmdcPg==</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
