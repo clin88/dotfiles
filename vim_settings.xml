@@ -20,8 +20,12 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hw_efficiency.py" timestamp="1476161280514" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/__init__.py" timestamp="1476161369868" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1476147284283" />
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/role/docker.pp" timestamp="1476209824374">
+      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/role/docker.pp" timestamp="1476211987622">
         <mark key="j" line="59" column="35" />
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
       </file>
       <file name="$USER_HOME$/code/gatekeeper/gatekeeper/handlers/service_result.py" timestamp="1476150293669" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/m3_harvest.py" timestamp="1476161068774" />
