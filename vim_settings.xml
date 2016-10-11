@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1476220362270" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/all_active.py" timestamp="1476161375258" />
+      <file name="/usr/local/Cellar/go/1.7.1/libexec/src/bufio/scan.go" timestamp="1476227219661">
+        <mark key="'" line="127" column="18" />
+      </file>
       <file name="$USER_HOME$/code/promotions/promotions/celery.py" timestamp="1476217929363" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
@@ -13,7 +16,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/system/lvm.pp" timestamp="1476217240902" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1476147284283" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1476226326506">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/code/gatekeeper/gatekeeper/handlers/service_result.py" timestamp="1476150293669" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/m3_harvest.py" timestamp="1476161068774" />
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" timestamp="1476216197150">
@@ -21,12 +29,12 @@
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/harvest/harvest_commons.py" timestamp="1476221670363" />
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/clusto/api.pp" timestamp="1476216265432" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476222007960">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="89" column="0" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476226364422">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/forecast/forecast.py" timestamp="1476159863741" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" timestamp="1476160359697" />
@@ -59,14 +67,19 @@
         <mark key="." line="50" column="36" />
         <mark key="^" line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476222146784">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476227717095">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="26" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476158820197">
         <mark key="'" line="120" column="17" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/config.go" timestamp="1476226140732">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -101,46 +114,64 @@
       <jump line="10" column="28" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
       <jump line="87" column="36" filename="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" />
       <jump line="30" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="44" column="40" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="52" column="17" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="45" column="32" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="36" column="13" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="11" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
+      <jump line="23" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="127" column="18" filename="/usr/local/Cellar/go/1.7.1/libexec/src/bufio/scan.go" />
+      <jump line="76" column="51" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="70" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="72" column="22" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXJ2ZXN0X3NwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNhc2UgImdldEVudGl0eUJ5T2JqZWN0IjoKCQllLCBlcnIgOj0gY2x1c3RvLkVudGl0eUJ5TmFtZShvcy5BcmdzWzJdKQoJCWlmIGVyciAhPSBuaWwgewoJCQlmbXQuUHJpbnRmKCJlcnJvciIsIGVycikKCQl9CgoJCWZtdC5QcmludGYoIiV2IiwgZSkK</text>
+        <text encoding="base64">ZnVuYyAoYyBjbHVzdG8pIFBhc3NwaHJhc2UoKSBzdHJpbmcgewoJcmV0dXJuIG5pbAp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cglzd2l0Y2ggb3MuQXJnc1sxXSB7CgljYXNlICJnZXRUeXBlcyI6CgkJdiwgZXJyIDo9IGNsdXN0by5HZXRUeXBlcygpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWZtdC5QcmludGYoImVycm9yIiwgZXJyKQoJCX0KCgkJZm10LlByaW50ZigiJXYiLCB2KQoJY2FzZSAiZ2V0QWxsQnlUeXBlIjoKCQl2LCBlcnIgOj0gY2x1c3RvLkdldEFsbEJ5VHlwZShvcy5BcmdzWzJdKQoJCWlmIGVyciAhPSBuaWwgewoJCQlmbXQuUHJpbnRmKCJlcnJvciIsIGVycikKCQl9CgoJCWZtdC5QcmludGYoIiV2IiwgdikKCWNhc2UgImdldEVudGl0aWVzIjoKCQl2LCBlcnIgOj0gY2x1c3RvLkdldEVudGl0aWVzKCkKCQlpZiBlcnIgIT0gbmlsIHsKCQkJZm10LlByaW50ZigiZXJyb3IiLCBlcnIpCgkJfQoKCQlmbXQuUHJpbnRmKCIldiIsIHYpCgljYXNlICJnZXRFbnRpdGllc0J5VHlwZSI6CgkJZXMsIGVyciA6PSBjbHVzdG8uRW50aXRpZXNCeVR5cGUob3MuQXJnc1syXSkKCQlpZiBlcnIgIT0gbmlsIHsKCQkJZm10LlByaW50ZigiZXJyb3IiLCBlcnIpCgkJfQoKCQlyZXN1bHQsIGVyciA6PSBqc29uLk1hcnNoYWwoZXMpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWZtdC5QcmludGYoImJsYWggJXMiLCBlcnIpCgkJfQoKCQlmbXQuUHJpbnRmKCIlcyIsIHJlc3VsdCkKCWNhc2UgImdldEVudGl0eUJ5T2JqZWN0IjoKCQllLCBlcnIgOj0gY2x1c3RvLkVudGl0eUJ5T2JqZWN0KG9zLkFyZ3NbMl0pCgkJaWYgZXJyICE9IG5pbCB7CgkJCWZtdC5QcmludGYoImVycm9yIiwgZXJyKQoJCX0KCgkJZm10LlByaW50ZigiJSt2IiwgZSkKCWNhc2UgImdldEVudGl0eUJ5TmFtZSI6CgkJZSwgZXJyIDo9IGNsdXN0by5FbnRpdHlCeU5hbWUob3MuQXJnc1syXSkKCQlpZiBlcnIgIT0gbmlsIHsKCQkJZm10LlByaW50ZigiZXJyb3IiLCBlcnIpCgkJfQoKCQlmbXQuUHJpbnRmKCIlK3YiLCBlKQoJfQo=</text>
+        <text encoding="base64">CXNlcnZlcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vCgkvLwo=</text>
+        <text encoding="base64">CSJjb2RlLnViZXIuaW50ZXJuYWwvZ28tY29tbW9uLmdpdC9jbGllbnQvY2x1c3RvIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vZm9yIHsKCS8vCTwtIHRpbWUuQWZ0ZXIodGltZS5TZWNvbmQoNjApKQoJLy8JLy8gcXVlcnkgY2x1c3RvIGZvciBhbGwgaG9zdHMKCS8vCS8vIGNob29zZSBuIHJhbmRvbSBob3N0cwoJLy8JLy8gZmFub3V0IHByb2ZpbGUgcmVxdWVzdHMuIGVycm9yIGlmIG5vdCBjb21wbGV0ZWQgYmVmb3JlIGludGVydmFsIHRpbWUKCS8vCS8vIGxvZyBwcm9maWxlcyB0byBoZWF0cGlwZQoJLy99CgkvLwoJLy8K</text>
+        <text encoding="base64">CXJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vCgkvL2lmIF8sIGVyciA6PSBjZmcuVENoYW5uZWwuTmV3KGNmZy5TZXJ2aWNlTmFtZSwgbWV0cmljcywgcmVnaXN0ZXJIYW5kbGVycyk7IGVyciAhPSBuaWwgewoJLy8JbG9nLkZhdGFsZigiVENoYW5uZWwuTmV3IGZhaWxlZDogJXYiLCBlcnIpCgkvL30KCS8vCgkvLy8vIElmIHRoZSBzZXJ2ZXIgbmVlZHMgdG8gbGlzdGVuIG9uIEhUVFAgcG9ydCwgdXNlIGR5bmFtaWMgcG9ydDoKCS8vLy8gcG9ydCwgXyA6PSBjb25maWcuR2V0RHluYW1pY0hUVFBQb3J0KGNmZy5Qb3J0KQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vCg==</text>
+        <text encoding="base64">CWNsdXN0byA6PSBzdHJ1Y3R7fQoJY2x1c3RvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vZm10LlByaW50ZigieW95byIpCgkvLwoJLy8vLyBCbG9jayBmb3JldmVyLgoJLy9zZWxlY3Qge30K</text>
+        <text encoding="base64">CWNsdXN0byA6PSBzdHJ1Y3R7fQoJY2x1c3RvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vCgkvLy8vIEJsb2NrIGZvcmV2ZXIuCgkvL3NlbGVjdCB7fQo=</text>
+        <text encoding="base64">CXBtLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vZm9yIHsKCS8vCTwtIHRpbWUuQWZ0ZXIodGltZS5TZWNvbmQoNjApKQoJLy8JLy8gcXVlcnkgY2x1c3RvIGZvciBhbGwgaG9zdHMKCS8vCS8vIGNob29zZSBuIHJhbmRvbSBob3N0cwoJLy8JLy8gZmFub3V0IHByb2ZpbGUgcmVxdWVzdHMuIGVycm9yIGlmIG5vdCBjb21wbGV0ZWQgYmVmb3JlIGludGVydmFsIHRpbWUKCS8vCS8vIGxvZyBwcm9maWxlcyB0byBoZWF0cGlwZQoJLy99Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZ1bmMgcmVnaXN0ZXJIYW5kbGVycyhjaCAqdGNoYW5uZWwuQ2hhbm5lbCwgc2VydmVyICp0aHJpZnQuU2VydmVyKSB7CglzZXJ2ZXIuUmVnaXN0ZXIoZ2VuLk5ld1RDaGFuTXlTZXJ2aWNlU2VydmVyKG15SGFuZGxlcnt9KSkKfQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
     </registers>
     <search>
@@ -167,6 +198,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
