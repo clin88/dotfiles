@@ -29,6 +29,9 @@
       </file>
       <file name="$USER_HOME$/code/gatekeeper/gatekeeper/handlers/service_result.py" timestamp="1476150293669" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/m3_harvest.py" timestamp="1476161068774" />
+      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" timestamp="1476216197150">
+        <mark key="'" line="87" column="36" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476158820197">
         <mark key="'" line="120" column="17" />
       </file>
@@ -37,6 +40,7 @@
         <mark key="[" line="41" column="17" />
         <mark key="]" line="41" column="53" />
       </file>
+      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/clusto/api.pp" timestamp="1476216265432" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476159709613">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="53" column="37" />
@@ -80,6 +84,7 @@
       <jump line="158" column="16" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
       <jump line="148" column="16" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
       <jump line="10" column="28" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
+      <jump line="87" column="36" filename="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
