@@ -3,11 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476144900480" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/go-auto-profiler/example_service/main.go" timestamp="1476119102987">
         <mark key="[" line="77" column="24" />
         <mark key="]" line="77" column="16" />
         <mark key="^" line="77" column="16" />
         <mark key="." line="77" column="16" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476144784379">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
       </file>
     </filemarks>
     <jumps />
