@@ -1,4 +1,9 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -16,12 +21,12 @@
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-  </action>
-  <action id="JumpToNextChange">
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="JumpToLastChange" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
