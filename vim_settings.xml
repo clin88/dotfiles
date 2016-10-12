@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" timestamp="1476216197150">
         <mark key="'" line="87" column="36" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/harvest/harvest_commons.py" timestamp="1476221670363" />
+      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/harvest/harvest_commons.py" timestamp="1476297239499" />
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/clusto/api.pp" timestamp="1476216265432" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476226364422">
         <mark key="'" line="8" column="0" />
@@ -81,6 +81,7 @@
         <mark key="[" line="41" column="17" />
         <mark key="]" line="41" column="53" />
       </file>
+      <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476297248663" />
     </filemarks>
     <jumps>
       <jump line="53" column="20" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
