@@ -67,17 +67,17 @@
         <mark key="." line="50" column="36" />
         <mark key="^" line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476303546460">
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476312335394">
         <mark key="'" line="61" column="20" />
-        <mark key="[" line="95" column="19" />
-        <mark key="]" line="95" column="20" />
-        <mark key="." line="95" column="20" />
-        <mark key="^" line="95" column="20" />
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="43" />
+        <mark key="^" line="25" column="71" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476158820197">
         <mark key="'" line="120" column="17" />
       </file>
-      <file name="$USER_HOME$/code/cameo-agent/src/pyflame.cc" timestamp="1476304658139" />
+      <file name="$USER_HOME$/code/cameo-agent/src/pyflame.cc" timestamp="1476312000566" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/config.go" timestamp="1476226140732">
         <mark key="[" line="41" column="17" />
         <mark key="]" line="41" column="53" />
@@ -152,11 +152,11 @@
       <jump line="61" column="20" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cC5HZXQK</text>
+      <register name="&quot;" type="4">
+        <text>, h: http.Client{Timeout:time}</text>
       </register>
       <register name="-" type="4">
-        <text>http</text>
+        <text>, h: http.Client{Timeout:time}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXJ2ZXN0X3NwXD4=</text>
@@ -165,31 +165,31 @@
         <text encoding="base64">ZnVuYyAoYyBjbHVzdG8pIFBhc3NwaHJhc2UoKSBzdHJpbmcgewoJcmV0dXJuIG5pbAp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cC5HZXQK</text>
+        <text encoding="base64">CXIsIGVyciA6PSBodHRwLkdldCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cAo=</text>
+        <text encoding="base64">CWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJjb2RlLnViZXIuaW50ZXJuYWwvZ28tY29tbW9uLmdpdC9jbGllbnQvc2NoZW1hbGVzcy9odHRwIgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cC5HZXQK</text>
+        <text encoding="base64">Ly8KLy8gQ3VycmVudGx5IHVudXNlZC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoc3BsaXRzWzBdW2xlbihzcGxpdHNbMF0pIC0gNDpdKSB7CgkJCQoJCX0K</text>
+        <text encoding="base64">Ly8KLy8gRGVhZCBjb2RlIHRoYXQncyBub3Qgd29ya2luZwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQlsIDo9IHMuVGV4dCgpCgkJc3BsaXRzIDo9IHN0cmluZ3MuU3BsaXROKGwsICIgIiwgMikKCQlpZiAoc3BsaXRzWzBdW2xlbig6LTRdKSB7CgkJCQoJCX0KCQlzZXJ2ZXJzID0gYXBwZW5kKHNlcnZlcnMsIHN0cmluZ3MuVHJpbVNwYWNlKHNwbGl0c1sxXSkp</text>
+      <register name="7" type="2">
+        <text encoding="base64">aHR0cC5HZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyAobSBNb25pdG9yKSBTdGFydCgpIHsKCWhvc3RzLCBlcnIgOj0gbS5zZXJ2ZXJzRmlsZSgiZG9ja2VyX2hvc3RzIikKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQoKCWZvciBob3N0IDo9IHJhbmdlIGhvc3RzIHsKCQkKCX0KCWZtdC5QcmludGYoIiUrdiIsIGhvc3RzKQp9Cgo=</text>
+        <text encoding="base64">aHR0cAo=</text>
       </register>
     </registers>
     <search>
