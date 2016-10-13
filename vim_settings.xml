@@ -42,6 +42,7 @@
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/log/log.go" timestamp="1476320712949">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/forecast_generator.py" timestamp="1476389866259" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" timestamp="1476388460243">
         <mark key="'" line="0" column="0" />
       </file>
@@ -90,12 +91,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476322986182">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="125" column="3" />
-        <mark key="]" line="125" column="14" />
-        <mark key="." line="125" column="14" />
-        <mark key="^" line="125" column="14" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476390335798">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="147" column="18" />
+        <mark key="]" line="147" column="81" />
+        <mark key="." line="147" column="81" />
+        <mark key="^" line="147" column="81" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476158820197">
         <mark key="'" line="120" column="17" />
@@ -115,19 +116,12 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/models/utilization.py" timestamp="1476386891628">
         <mark key="'" line="99" column="42" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476389040556">
-        <mark key="'" line="87" column="4" />
+      <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476389762929">
+        <mark key="'" line="257" column="25" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/celery.py" timestamp="1476388408878" />
     </filemarks>
     <jumps>
-      <jump line="364" column="42" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/utilization.py" />
-      <jump line="369" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
-      <jump line="158" column="16" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
-      <jump line="148" column="16" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
-      <jump line="10" column="28" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" />
-      <jump line="87" column="36" filename="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" />
-      <jump line="30" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
       <jump line="44" column="40" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="24" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="52" column="17" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
@@ -204,7 +198,6 @@
       <jump line="46" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="53" column="16" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="124" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="83" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
       <jump line="355" column="21" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
       <jump line="86" column="0" filename="$USER_HOME$/code/ucapacity/config/base.yaml" />
@@ -221,16 +214,24 @@
       <jump line="371" column="21" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
       <jump line="87" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="243" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="246" column="8" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="248" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="254" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="256" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="257" column="25" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="170" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>profileHost</text>
+        <text>collects profile data for a particular service on a host.</text>
       </register>
       <register name="-" type="4">
-        <text>profileHost</text>
+        <text>collects profile data for a particular service on a host.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmlwX21ldHJpY19wYXJhbXNfMVw+</text>
+        <text encoding="base64">XDxkb2N1bWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlmbXQuUHJpbnRmKHIpCg==</text>
@@ -267,9 +268,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmlwX21ldHJpY19wYXJhbXNfMVw+</last-search>
+      <last-search encoding="base64">XDxkb2N1bWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmlwX21ldHJpY19wYXJhbXNfMVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkb2N1bWVudFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -289,6 +290,8 @@
         <entry encoding="base64">XDxwcm9maWxlSG9zdFw+</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry encoding="base64">XDx0cmlwX21ldHJpY19wYXJhbXNfMVw+</entry>
+        <entry encoding="base64">XDxkY19oaXN0b3JpY2FsXD4=</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
