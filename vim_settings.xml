@@ -8,9 +8,6 @@
         <mark key="'" line="127" column="18" />
       </file>
       <file name="$USER_HOME$/code/promotions/promotions/celery.py" timestamp="1476217929363" />
-      <file name="/a.dummy" timestamp="1476218283503">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/system/lvm.pp" timestamp="1476217240902" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1476226326506">
         <mark key="[" line="19" column="20" />
@@ -47,6 +44,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/code/ucapacity/config/base.yaml" timestamp="1476384883861" />
       <file name="$USER_HOME$/.virtualenvs/promo/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1476218303852" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/net/xhttp/json_client.go" timestamp="1476313336744" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/go-auto-profiler/example_service/main.go" timestamp="1476119102987">
