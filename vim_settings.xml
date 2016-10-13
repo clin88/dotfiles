@@ -92,7 +92,7 @@
         <mark key="'" line="267" column="8" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476297248663" />
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/celery.py" timestamp="1476382101542" />
+      <file name="$USER_HOME$/code/ucapacity/ucapacity/celery.py" timestamp="1476386349825" />
     </filemarks>
     <jumps>
       <jump line="76" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
