@@ -15,7 +15,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/system/lvm.pp" timestamp="1476217240902" />
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/cameo_agent.pp" timestamp="1476750381142" />
+      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/cameo_agent.pp" timestamp="1476752237821" />
       <file name="$USER_HOME$/code/gatekeeper/gatekeeper/handlers/service_result.py" timestamp="1476150293669" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/m3_harvest.py" timestamp="1476161068774" />
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" timestamp="1476216197150">
