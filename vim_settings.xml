@@ -3,29 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/all_active.py" timestamp="1476161375258" />
       <file name="/usr/local/Cellar/go/1.7.1/libexec/src/bufio/scan.go" timestamp="1476227219661">
         <mark key="'" line="127" column="18" />
       </file>
-      <file name="$USER_HOME$/code/promotions/promotions/celery.py" timestamp="1476217929363" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1476388596894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/system/lvm.pp" timestamp="1476217240902" />
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/cameo_agent.pp" timestamp="1476752237821" />
-      <file name="$USER_HOME$/code/gatekeeper/gatekeeper/handlers/service_result.py" timestamp="1476150293669" />
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/m3_harvest.py" timestamp="1476161068774" />
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" timestamp="1476216197150">
         <mark key="'" line="87" column="36" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/models/tactical.py" timestamp="1476386842605">
         <mark key="'" line="348" column="8" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/harvest/harvest_commons.py" timestamp="1476297239499" />
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/service/clusto/api.pp" timestamp="1476216265432" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1476399996417">
         <mark key="'" line="34" column="35" />
         <mark key="[" line="32" column="78" />
@@ -33,27 +25,19 @@
         <mark key="." line="32" column="78" />
         <mark key="^" line="32" column="78" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/forecast/forecast.py" timestamp="1476159863741" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/log/log.go" timestamp="1476320712949">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/forecast_generator.py" timestamp="1476389866259" />
+      <file name="$USER_HOME$/code/clay-runtime-config/clay_runtime_config/flipr_synchronizer.py" timestamp="1476830663347" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" timestamp="1476388460243">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/base.yaml" timestamp="1476320761593">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/ucapacity/config/secrets-development.yaml" timestamp="1476387000405" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/utilization.py" timestamp="1476160953217">
         <mark key="'" line="364" column="42" />
       </file>
       <file name="$USER_HOME$/code/ucapacity/config/base.yaml" timestamp="1476386737497">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/promo/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1476218303852" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/net/xhttp/json_client.go" timestamp="1476313336744" />
       <file name="/usr/local/Cellar/go/1.7.1/libexec/src/net/http/client.go" timestamp="1476393467748">
         <mark key="'" line="207" column="42" />
         <mark key="[" line="326" column="0" />
@@ -62,20 +46,11 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" timestamp="1476161251763">
         <mark key="'" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hailstorm.py" timestamp="1476161061112" />
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/hw_efficiency.py" timestamp="1476161280514" />
+      <file name="$USER_HOME$/code/clay-runtime-config/example/example_program.py" timestamp="1476830225170" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/production.yaml" timestamp="1476398482521">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/__init__.py" timestamp="1476161369868" />
-      <file name="$USER_HOME$/code/uber-puppet-manifests/modules/uber/manifests/role/docker.pp" timestamp="1476381981320">
-        <mark key="j" line="59" column="35" />
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/development.yaml" timestamp="1476320766994">
         <mark key="'" line="1" column="0" />
@@ -84,6 +59,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/code/clay-runtime-config/clay_runtime_config/__init__.py" timestamp="1476830564619" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476405053626">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="84" column="0" />
@@ -91,18 +67,14 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="165" column="20" />
       </file>
+      <file name="$USER_HOME$/code/clay-runtime-config/fabfile.py" timestamp="1476830103402" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/client.go" timestamp="1476158820197">
         <mark key="'" line="120" column="17" />
       </file>
-      <file name="$USER_HOME$/code/cameo-agent/src/pyflame.cc" timestamp="1476758951830" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/config.go" timestamp="1476226140732">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="53" />
-      </file>
+      <file name="$USER_HOME$/code/clay-runtime-config/clay_runtime_config/runtime_configuration.py" timestamp="1476830918401" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/config/config.go" timestamp="1476320572561">
         <mark key="'" line="267" column="8" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/migrations/script.py.mako" timestamp="1476387743457" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" timestamp="1476386768457">
         <mark key="'" line="0" column="0" />
       </file>
@@ -112,7 +84,6 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476389762929">
         <mark key="'" line="257" column="25" />
       </file>
-      <file name="$USER_HOME$/code/ucapacity/ucapacity/celery.py" timestamp="1476388408878" />
     </filemarks>
     <jumps>
       <jump line="23" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
@@ -292,6 +263,8 @@
       <history-cmd>
         <entry>wa</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
