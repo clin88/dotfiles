@@ -79,6 +79,7 @@
         <mark key="^" line="165" column="20" />
       </file>
       <file name="$USER_HOME$/code/clay-runtime-config/fabfile.py" timestamp="1476830103402" />
+      <file name="$USER_HOME$/code/clay-runtime-config/clay_runtime_config/config_store/file_config_store.py" timestamp="1476920157050" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/config/config.go" timestamp="1476320572561">
         <mark key="'" line="267" column="8" />
       </file>
