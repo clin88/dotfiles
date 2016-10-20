@@ -64,12 +64,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1476996171529">
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477000097401">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="174" column="50" />
-        <mark key="]" line="174" column="51" />
-        <mark key="." line="174" column="51" />
-        <mark key="^" line="174" column="51" />
+        <mark key="[" line="186" column="26" />
+        <mark key="]" line="186" column="48" />
+        <mark key="." line="186" column="48" />
+        <mark key="^" line="186" column="48" />
       </file>
       <file name="$USER_HOME$/code/clay-runtime-config/fabfile.py" timestamp="1476830103402" />
       <file name="$USER_HOME$/code/clay-runtime-config/clay_runtime_config/config_store/file_config_store.py" timestamp="1476920157050" />
