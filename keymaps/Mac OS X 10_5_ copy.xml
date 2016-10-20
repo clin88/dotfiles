@@ -2,8 +2,21 @@
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -20,4 +33,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Uml.ShowDiff" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
