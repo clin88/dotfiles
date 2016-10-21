@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1477076723238">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="/usr/local/Cellar/go/1.7.1/libexec/src/bufio/scan.go" timestamp="1476227219661">
         <mark key="'" line="127" column="18" />
       </file>
@@ -117,11 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="8" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
-      <jump line="248" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
-      <jump line="254" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
-      <jump line="256" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
-      <jump line="257" column="25" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
       <jump line="31" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="126" column="30" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="158" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
@@ -217,13 +219,18 @@
       <jump line="501" column="22" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
       <jump line="4" column="38" filename="$USER_HOME$/code/promotions/promotions/services/client_promotion.py" />
       <jump line="114" column="5" filename="$USER_HOME$/code/promotions/promotions/services/client_promotion.py" />
+      <jump line="40" column="26" filename="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" />
+      <jump line="52" column="11" filename="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" />
+      <jump line="22" column="81" filename="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" />
+      <jump line="58" column="20" filename="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKZGVmIF9kdW1wcyhvYmopOgogICAgcmV0dXJuIHBpY2tsZS5kdW1wcyhvYmopCgoKQGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKZGVmIF9sb2FkcyhvYmopOgogICAgcmV0dXJuIHBpY2tsZS5sb2FkcyhvYmopCg==</text>
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name="-" type="4">
-        <text>pool</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3luY19zdGF0c1w+</text>
@@ -232,31 +239,31 @@
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIEBhc3luY19zdGF0cy53cmFwcGVyKCdwcm9tb3Rpb25zLnNlcnZpY2VzLnJlcG9zaXRvcmllcy5wcm9tb3Rpb25fY29kZS5tYXBfdG9fZW50aXRpZXMnKQogICAgQGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKICAgIGRlZiBtYXBfdG9fZW50aXRpZXMoY2VsbHMpOgogICAgICAgIGVudGl0eV9yZXN1bHRzID0gW10KICAgICAgICBmb3IgY2VsbCBpbiBjZWxsczoKICAgICAgICAgICAgZW50aXR5X3Jlc3VsdHMuYXBwZW5kKFByb21vdGlvbkNvZGVNYXBwZXIudG9fZW50aXR5KGNlbGwpKQogICAgICAgIHN0YXRzLmNvdW50KCdwcm9tb3Rpb25zLnNlcnZpY2VzLnJlcG9zaXRvcmllcy5wcm9tb3Rpb25fY29kZS5tYXBwZWRfZW50aXRpZXMnLCBsZW4oZW50aXR5X3Jlc3VsdHMpKQogICAgICAgIHJldHVybiBlbnRpdHlfcmVzdWx0cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5kIC0gc3RhcnQpID4gMC4wNToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZnVuYyhzdCBzdGFjaykgc3RhY2sgewoJCXN0LmR1cmF0aW9uICs9IDEKCQlyZXR1cm4gc3QKCX0ocC5zdGFja3Nba2V5XSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS5kdXJhdGlvbiA9IHAuc3RhY2tzW2tleV0uZHVyYXRpb24gKyBzdC5kdXJhdGlvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dHlwZSBmcmFtZSBzdHJ1Y3QgewoJbW9kdWxlIHN0cmluZwoJbWV0aG9kIHN0cmluZwoJbGluZW5vIGludAp9CgpmdW5jIChmIGZyYW1lKSBoYXNoKCkgc3RyaW5nIHsKCWggOj0gbWQ1Lk5ldygpCgliaW5hcnkuV3JpdGUoaCwgYmluYXJ5LkxpdHRsZUVuZGlhbiwgZikKCglyZXR1cm4gc3RyaW5nKGguU3VtKG5pbCkpCn0KCnR5cGUgc3RhY2sgc3RydWN0IHsKCXNlcnZpY2UgIHN0cmluZwoJZnJhbWVzICAgW11pbnQKCWR1cmF0aW9uIGludAp9CgpmdW5jIChzIHN0YWNrKSBoYXNoKCkgc3RyaW5nIHsKCWggOj0gbWQ1Lk5ldygpCgliaW5hcnkuV3JpdGUoaCwgYmluYXJ5LkxpdHRsZUVuZGlhbiwgcy5mcmFtZXMpCgliaW5hcnkuV3JpdGUoaCwgYmluYXJ5LkxpdHRsZUVuZGlhbiwgcy5zZXJ2aWNlKQoKCXJldHVybiBzdHJpbmcoaC5TdW0obmlsKSkKfQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiOiAiIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjbHMubG9nZ2VyLmluZm8oewogICAgICAgICAgICAic3RhcnQiOiBzdGFydCwKICAgICAgICAgICAgImVuZCI6IGVuZCwKICAgICAgICAgICAgInRvdGFsIgogICAgICAgIH0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbGVuKHAuZnJhbWVzKSAtMQo=</text>
+        <text encoding="base64">CQkJZnVuYyhzdCBzdGFjaykgc3RhY2sgewoJCXN0LmR1cmF0aW9uICs9IDEKCQlyZXR1cm4gc3QKCX0ocC5zdGFja3Nba2V5XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmcmFtZUlkIDo9IGxlbihwLmZyYW1lcykgLSAxCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
