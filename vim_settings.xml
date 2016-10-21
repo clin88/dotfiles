@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1477076723238">
+      <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1477079364789">
         <mark key="'" line="59" column="20" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="22" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="86" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1477074877440">
+      <file name="/a.dummy" timestamp="1477079173512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,8 +226,8 @@
       <jump line="58" column="20" filename="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Zgo=</text>
+      <register name="&quot;" type="4">
+        <text>promotions.services.repositories.award_redemption_count</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
