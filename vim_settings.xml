@@ -55,12 +55,12 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476389762929">
         <mark key="'" line="257" column="25" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477017136711">
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477018499040">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="42" column="12" />
-        <mark key="." line="42" column="12" />
-        <mark key="^" line="42" column="12" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1477010301832">
         <mark key="[" line="39" column="26" />
@@ -204,11 +204,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyAK</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGkgOj0gMDsgaSA8IGxlbihzYykgLSAxOyAp</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxvYWRfY29uZmlnX2ludGVydmFsXD4=</text>
