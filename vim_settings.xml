@@ -25,6 +25,13 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/models/tactical.py" timestamp="1476386842605">
         <mark key="'" line="348" column="8" />
       </file>
+      <file name="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" timestamp="1477072186770">
+        <mark key="'" line="1744" column="12" />
+        <mark key="[" line="1774" column="26" />
+        <mark key="]" line="1777" column="0" />
+        <mark key="^" line="1777" column="0" />
+        <mark key="." line="1777" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1477010301832">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="25" />
@@ -95,9 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="16" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
-      <jump line="124" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
-      <jump line="83" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
       <jump line="355" column="21" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
       <jump line="86" column="0" filename="$USER_HOME$/code/ucapacity/config/base.yaml" />
       <jump line="382" column="0" filename="$USER_HOME$/code/ucapacity/config/base.yaml" />
@@ -195,6 +199,9 @@
       <jump line="35" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" />
       <jump line="39" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" />
       <jump line="64" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" />
+      <jump line="196" column="0" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
+      <jump line="1699" column="18" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
+      <jump line="1744" column="12" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
