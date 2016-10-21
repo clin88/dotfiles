@@ -9,16 +9,16 @@
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1477073395726">
+      <file name="/a.dummy" timestamp="1477074877440">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/promotions/promotions/lib/cache.py" timestamp="1477073503091">
-        <mark key="'" line="167" column="15" />
+      <file name="$USER_HOME$/code/promotions/promotions/lib/cache.py" timestamp="1477074747293">
+        <mark key="'" line="184" column="11" />
         <mark key="[" line="184" column="0" />
-        <mark key="]" line="186" column="28" />
+        <mark key="]" line="191" column="27" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477037235187">
         <mark key="'" line="66" column="0" />
@@ -39,6 +39,14 @@
         <mark key="]" line="1774" column="0" />
         <mark key="^" line="1774" column="0" />
         <mark key="." line="1774" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/promotions/promotions/services/repositories/promotion_code.py" timestamp="1477074733747">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="105" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" timestamp="1477075022717">
+        <mark key="'" line="501" column="22" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1477010301832">
         <mark key="[" line="39" column="26" />
@@ -62,11 +70,6 @@
       <file name="$USER_HOME$/code/ucapacity/config/base.yaml" timestamp="1476386737497">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.1/libexec/src/net/http/client.go" timestamp="1476393467748">
-        <mark key="'" line="207" column="42" />
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="336" column="6" />
-      </file>
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" timestamp="1476161251763">
         <mark key="'" line="10" column="28" />
       </file>
@@ -74,6 +77,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/promotions/promotions/services/client_promotion.py" timestamp="1477075028331">
+        <mark key="'" line="114" column="5" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/development.yaml" timestamp="1476320766994">
         <mark key="'" line="1" column="0" />
@@ -111,17 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/tactical.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/tactical.py" />
-      <jump line="348" column="8" filename="$USER_HOME$/code/ucapacity/ucapacity/models/tactical.py" />
-      <jump line="99" column="42" filename="$USER_HOME$/code/ucapacity/ucapacity/models/utilization.py" />
-      <jump line="371" column="21" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
-      <jump line="243" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
       <jump line="246" column="8" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
       <jump line="248" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
       <jump line="254" column="30" filename="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" />
@@ -211,19 +206,30 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
       <jump line="23" column="0" filename="$USER_HOME$/code/promotions/promotions/lib/cache.py" />
       <jump line="167" column="15" filename="$USER_HOME$/code/promotions/promotions/lib/cache.py" />
+      <jump line="4" column="25" filename="$USER_HOME$/code/promotions/promotions/services/repositories/promotion_code.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/promotions/promotions/services/repositories/promotion_code.py" />
+      <jump line="184" column="11" filename="$USER_HOME$/code/promotions/promotions/lib/cache.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
+      <jump line="570" column="14" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
+      <jump line="604" column="14" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
+      <jump line="553" column="39" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
+      <jump line="501" column="22" filename="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" />
+      <jump line="4" column="38" filename="$USER_HOME$/code/promotions/promotions/services/client_promotion.py" />
+      <jump line="114" column="5" filename="$USER_HOME$/code/promotions/promotions/services/client_promotion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKZGVmIF9kdW1wcyhvYmopOgogICAgcmV0dXJuIHBpY2tsZS5kdW1wcyhvYmopCg==</text>
+        <text encoding="base64">QGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKZGVmIF9kdW1wcyhvYmopOgogICAgcmV0dXJuIHBpY2tsZS5kdW1wcyhvYmopCgoKQGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKZGVmIF9sb2FkcyhvYmopOgogICAgcmV0dXJuIHBpY2tsZS5sb2FkcyhvYmopCg==</text>
       </register>
       <register name="-" type="4">
         <text>pool</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3luY19wb29sXD4=</text>
+        <text encoding="base64">XDxhc3luY19zdGF0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlvLldyaXRlU3RyaW5nKGgsIGZyYW1lLm1vZHVsZSkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIEBhc3luY19zdGF0cy53cmFwcGVyKCdwcm9tb3Rpb25zLnNlcnZpY2VzLnJlcG9zaXRvcmllcy5wcm9tb3Rpb25fY29kZS5tYXBfdG9fZW50aXRpZXMnKQogICAgQGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKICAgIGRlZiBtYXBfdG9fZW50aXRpZXMoY2VsbHMpOgogICAgICAgIGVudGl0eV9yZXN1bHRzID0gW10KICAgICAgICBmb3IgY2VsbCBpbiBjZWxsczoKICAgICAgICAgICAgZW50aXR5X3Jlc3VsdHMuYXBwZW5kKFByb21vdGlvbkNvZGVNYXBwZXIudG9fZW50aXR5KGNlbGwpKQogICAgICAgIHN0YXRzLmNvdW50KCdwcm9tb3Rpb25zLnNlcnZpY2VzLnJlcG9zaXRvcmllcy5wcm9tb3Rpb25fY29kZS5tYXBwZWRfZW50aXRpZXMnLCBsZW4oZW50aXR5X3Jlc3VsdHMpKQogICAgICAgIHJldHVybiBlbnRpdHlfcmVzdWx0cwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
@@ -257,18 +263,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3luY19wb29sXD4=</last-search>
+      <last-search encoding="base64">XDxhc3luY19zdGF0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3luY19wb29sXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhc3luY19zdGF0c1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjZmdcPg==</entry>
-        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxFbnRpdGllc0J5VHlwZVw+</entry>
-        <entry encoding="base64">XDxVbm1hcnNoYWxcPg==</entry>
         <entry encoding="base64">XDxUQVJHRVRfTUFQXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
         <entry encoding="base64">XDxyYXdfanNvblw+</entry>
@@ -284,7 +286,11 @@
         <entry encoding="base64">XDxkZWFkbGluZVw+</entry>
         <entry encoding="base64">XDxwcm9maWxlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxyZWxvYWRfY29uZmlnX2ludGVydmFsXD4=</entry>
+        <entry encoding="base64">XDxhc3luY1w+</entry>
         <entry encoding="base64">XDxhc3luY19wb29sXD4=</entry>
+        <entry encoding="base64">XDxhc3luY19yZWRpc1w+</entry>
+        <entry encoding="base64">XDxyZWRpc19jbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxhc3luY19zdGF0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
