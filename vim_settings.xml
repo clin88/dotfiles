@@ -9,8 +9,16 @@
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476831014919">
+      <file name="/a.dummy" timestamp="1477073395726">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/promotions/promotions/lib/cache.py" timestamp="1477073503091">
+        <mark key="'" line="167" column="15" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="186" column="28" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477037235187">
         <mark key="'" line="66" column="0" />
@@ -25,12 +33,12 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/models/tactical.py" timestamp="1476386842605">
         <mark key="'" line="348" column="8" />
       </file>
-      <file name="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" timestamp="1477072186770">
-        <mark key="'" line="1744" column="12" />
+      <file name="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" timestamp="1477073251532">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1774" column="26" />
-        <mark key="]" line="1777" column="0" />
-        <mark key="^" line="1777" column="0" />
-        <mark key="." line="1777" column="0" />
+        <mark key="]" line="1774" column="0" />
+        <mark key="^" line="1774" column="0" />
+        <mark key="." line="1774" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1477010301832">
         <mark key="[" line="39" column="26" />
@@ -41,6 +49,7 @@
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/log/log.go" timestamp="1476320712949">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/promotions/config/base_uconfig.yaml" timestamp="1477073343675" />
       <file name="$USER_HOME$/code/clay-runtime-config/clay_runtime_config/views/clay_request_handlers.py" timestamp="1476831043578">
         <mark key="'" line="37" column="69" />
       </file>
@@ -102,11 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="21" filename="$USER_HOME$/code/ucapacity/ucapacity/jobs/directory.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/ucapacity/config/base.yaml" />
-      <jump line="382" column="0" filename="$USER_HOME$/code/ucapacity/config/base.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/ucapacity/config/base.yaml" />
-      <jump line="88" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
       <jump line="59" column="4" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
       <jump line="285" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/code/ucapacity/ucapacity/models/base.py" />
@@ -202,16 +206,21 @@
       <jump line="196" column="0" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
       <jump line="1699" column="18" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
       <jump line="1744" column="12" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
+      <jump line="1735" column="55" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
+      <jump line="1777" column="0" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/promotions/promotions/lib/cache.py" />
+      <jump line="167" column="15" filename="$USER_HOME$/code/promotions/promotions/lib/cache.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QGFzeW5jLmNvbnRleHQoYXN5bmNfcG9vbCkKZGVmIF9kdW1wcyhvYmopOgogICAgcmV0dXJuIHBpY2tsZS5kdW1wcyhvYmopCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>pool</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWxvYWRfY29uZmlnX2ludGVydmFsXD4=</text>
+        <text encoding="base64">XDxhc3luY19wb29sXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWlvLldyaXRlU3RyaW5nKGgsIGZyYW1lLm1vZHVsZSkK</text>
@@ -248,15 +257,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWxvYWRfY29uZmlnX2ludGVydmFsXD4=</last-search>
+      <last-search encoding="base64">XDxhc3luY19wb29sXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWxvYWRfY29uZmlnX2ludGVydmFsXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhc3luY19wb29sXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBDb25maWdcPg==</entry>
         <entry encoding="base64">XDxjZmdcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxFbnRpdGllc0J5VHlwZVw+</entry>
@@ -276,6 +284,7 @@
         <entry encoding="base64">XDxkZWFkbGluZVw+</entry>
         <entry encoding="base64">XDxwcm9maWxlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxyZWxvYWRfY29uZmlnX2ludGVydmFsXD4=</entry>
+        <entry encoding="base64">XDxhc3luY19wb29sXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
