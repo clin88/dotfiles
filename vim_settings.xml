@@ -123,6 +123,9 @@
       <file name="$USER_HOME$/code/ucapacity/ucapacity/jobs/periodic.py" timestamp="1476161251763">
         <mark key="'" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser.go" timestamp="1477425288330">
+        <mark key="'" line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/production.yaml" timestamp="1477083245032">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="48" />
@@ -185,9 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="9" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/Profile.go" />
-      <jump line="4" column="26" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/Profile.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester.go" />
       <jump line="27" column="21" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester.go" />
       <jump line="26" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester.go" />
       <jump line="4" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser.go" />
@@ -285,6 +285,9 @@
       <jump line="84" column="14" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="81" column="50" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="77" column="67" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="41" column="70" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser.go" />
+      <jump line="24" column="29" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
