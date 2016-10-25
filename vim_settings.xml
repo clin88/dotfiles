@@ -153,13 +153,6 @@
         <mark key="." line="80" column="12" />
         <mark key="^" line="80" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477371324648">
-        <mark key="'" line="78" column="67" />
-        <mark key="[" line="93" column="8" />
-        <mark key="]" line="93" column="47" />
-        <mark key="." line="93" column="47" />
-        <mark key="^" line="93" column="47" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser.go" timestamp="1477371026451">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="46" column="0" />
@@ -294,8 +287,8 @@
       <jump line="77" column="67" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Profile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>Profile</text>
@@ -310,28 +303,28 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXN0YWNrcwo=</text>
+        <text encoding="base64">CXAgOj0gcGFbXQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXN0YWNrcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXQuRXJyb3Ioc3RhY2tzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXQuRXJyb3IobmV3c3RzKQo=</text>
+        <text encoding="base64">CQkJLy8K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
