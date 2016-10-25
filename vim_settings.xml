@@ -156,6 +156,10 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/code/rabbits/rabbits/handlers/rabbits.py" timestamp="1477432654851">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="54" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletool/ingester.go" timestamp="1477267148339">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
@@ -286,7 +290,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>13425</text>
+        <text>rabbits.handlers.getDriverUUIDsInCohort</text>
       </register>
       <register name="-" type="4">
         <text>Profile</text>
