@@ -15,11 +15,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/promotions/promotions/lib/cache.py" timestamp="1477356361363">
-        <mark key="'" line="283" column="4" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="288" column="28" />
-      </file>
       <file name="$USER_HOME$/code/uber-puppet-manifests/modules/base/manifests/directories.pp" timestamp="1476216197150">
         <mark key="'" line="87" column="36" />
       </file>
@@ -90,6 +85,7 @@
       <file name="$USER_HOME$/code/promotions/promotions/lib/rate_limiting.py" timestamp="1477355959432">
         <mark key="'" line="75" column="14" />
       </file>
+      <file name="$USER_HOME$/code/rabbits/udeploy/pinocchio.yaml" timestamp="1477496391328" />
       <file name="$USER_HOME$/code/ucapacity/ucapacity/views/hw_efficiency.py" timestamp="1476389762929">
         <mark key="'" line="257" column="25" />
       </file>
