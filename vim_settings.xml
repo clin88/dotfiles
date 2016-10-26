@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/client/clusto/entity.go" timestamp="1476209757559">
         <mark key="'" line="136" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1477371234952">
+      <file name="/a.dummy" timestamp="1477443129546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,10 +156,10 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/code/rabbits/rabbits/handlers/rabbits.py" timestamp="1477433215581">
+      <file name="$USER_HOME$/code/rabbits/rabbits/handlers/rabbits.py" timestamp="1477443127772">
         <mark key="'" line="500" column="8" />
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="54" />
+        <mark key="[" line="684" column="16" />
+        <mark key="]" line="684" column="55" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletool/ingester.go" timestamp="1477267148339">
         <mark key="'" line="0" column="18" />
@@ -291,7 +291,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rabbits.handlers.getDriverUUIDsInCohort</text>
+        <text>rabbits.handlers.isTripIngestedForDriver</text>
       </register>
       <register name="-" type="4">
         <text>Profile</text>
