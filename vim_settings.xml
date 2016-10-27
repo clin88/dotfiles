@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/code/promotions/promotions/services/triggered_promotion_service.py" timestamp="1477355924189">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477538013912">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477539646527">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester_test.go" timestamp="1477370849373">
         <mark key="'" line="77" column="13" />
@@ -217,7 +217,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477536973526">
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477539288760">
         <mark key="'" line="85" column="25" />
         <mark key="[" line="86" column="16" />
         <mark key="]" line="86" column="22" />
@@ -354,10 +354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r io.Reader</text>
+        <text>SScanf</text>
       </register>
       <register name="-" type="4">
-        <text>r io.Reader</text>
+        <text>SScanf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFcnJOb3RGb3VuZFw+</text>
@@ -366,31 +366,31 @@
         <text encoding="base64">CWZvciBwIDo9IHJhbmdlIGNoIHsKCQlmbmFtZSA6PSBmbXQuU3ByaW50ZigiJXMtJWQucHJvZiIsIHAuU2VydmljZSwgdGltZS5Ob3coKS5Vbml4KCkpCgkJZiwgZXJyIDo9IG9zLkNyZWF0ZSgicHJvZnMvIiArIGZuYW1lKQoJCWlmIGVyciAhPSBuaWwgewoJCQlwYW5pYyhlcnIpCgkJfQoJCWRlZmVyIGYuQ2xvc2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlvLgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiBwYXRoID09ICItIiB7CgkJCQoJCX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJb3MuU3RkaW4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGRrLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZsYWdzLlBhcnNlKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXIgOj0gaW8uUmVhZGVyKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWlvLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlpZiBwYXRoID09ICItIiB7CgkJCQoJCX0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIFtdCg==</text>
+        <text encoding="base64">CQkJb3MuU3RkaW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmxhZy4K</text>
+        <text encoding="base64">ZGRrLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICJmbGFnIgoK</text>
+        <text encoding="base64">CWZsYWdzLlBhcnNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
