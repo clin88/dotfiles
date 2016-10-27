@@ -46,12 +46,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester_test.go" timestamp="1477529155729">
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester_test.go" timestamp="1477532717044">
         <mark key="'" line="38" column="29" />
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="30" />
-        <mark key="." line="88" column="30" />
-        <mark key="^" line="88" column="30" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="32" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/vendor/code.uber.internal/go-common.git/x/log/log.go" timestamp="1476320712949">
         <mark key="'" line="0" column="0" />
@@ -148,12 +147,12 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1477527730205">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
-        <mark key="^" line="36" column="41" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" timestamp="1477532671327">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="46" column="45" />
+        <mark key="." line="46" column="45" />
+        <mark key="^" line="52" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester.go" timestamp="1477369864506">
         <mark key="'" line="83" column="0" />
@@ -162,7 +161,7 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester.go" timestamp="1477529459905">
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester.go" timestamp="1477531711799">
         <mark key="'" line="59" column="20" />
         <mark key="[" line="60" column="52" />
         <mark key="]" line="60" column="52" />
@@ -211,12 +210,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477527531859">
-        <mark key="'" line="197" column="17" />
-        <mark key="[" line="200" column="31" />
-        <mark key="]" line="200" column="33" />
-        <mark key="." line="200" column="33" />
-        <mark key="^" line="200" column="33" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477532684009">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/code/rabbits/rabbits/jobs/cache_incentive_data.py" timestamp="1477429374274">
         <mark key="'" line="66" column="4" />
@@ -245,14 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester.go" />
-      <jump line="71" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester_test.go" />
-      <jump line="108" column="19" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester_test.go" />
-      <jump line="81" column="12" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester_test.go" />
-      <jump line="77" column="13" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/ingester_test.go" />
-      <jump line="128" column="17" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
-      <jump line="10" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/Profile.go" />
-      <jump line="32" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser.go" />
       <jump line="73" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser.go" />
       <jump line="27" column="21" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser_test.go" />
       <jump line="84" column="14" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
@@ -306,7 +297,6 @@
       <jump line="43" column="41" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="198" column="64" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="55" column="36" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
-      <jump line="27" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="219" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="59" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="62" column="17" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
@@ -338,70 +328,76 @@
       <jump line="59" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main.go" />
       <jump line="22" column="14" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/profile.go" />
       <jump line="86" column="5" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester_test.go" />
-      <jump line="38" column="29" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester_test.go" />
       <jump line="13" column="14" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/profile_test.go" />
       <jump line="12" column="17" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/profile_test.go" />
       <jump line="9" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/profile.go" />
       <jump line="16" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester.go" />
       <jump line="31" column="26" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester.go" />
       <jump line="59" column="20" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester.go" />
+      <jump line="27" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="190" column="11" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="171" column="17" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="170" column="56" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="115" column="44" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="89" column="49" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="33" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="83" column="18" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="50" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
+      <jump line="38" column="29" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/ingester_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWluZ2VzdGVyIDo9IE5ld0luZ2VzdGVyKGN0eCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>DenormalizedStacks</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNoU3RhY2tcPg==</text>
+        <text encoding="base64">XDxwY2hhblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZvciBwIDo9IHJhbmdlIGNoIHsKCQlmbmFtZSA6PSBmbXQuU3ByaW50ZigiJXMtJWQucHJvZiIsIHAuU2VydmljZSwgdGltZS5Ob3coKS5Vbml4KCkpCgkJZiwgZXJyIDo9IG9zLkNyZWF0ZSgicHJvZnMvIiArIGZuYW1lKQoJCWlmIGVyciAhPSBuaWwgewoJCQlwYW5pYyhlcnIpCgkJfQoJCWRlZmVyIGYuQ2xvc2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJldHVybiBzdHJpbmcoaC5TdW0obmlsKSkK</text>
+        <text encoding="base64">CWluZ2VzdGVyIDo9IE5ld0luZ2VzdGVyKGN0eCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWggOj0gc2hhMS5OZXcoKQo=</text>
+        <text encoding="base64">CQllbmNvZGVyIDo9IGpzb24uTmV3RW5jb2RlcihmKQoJCWlmIGVyciA6PSBlbmNvZGVyLkVuY29kZShwKTsgZXJyICE9IG5pbCB7CgkJCWxvZy5FcnJvcmYoImVycm9yIHdyaXRpbmcgJXM6ICV2IDo6ICV2IiwgZm5hbWUsIGVyciwgcCkKCQl9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQlsaW5lIDo9IHMuVGV4dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWN0eCA6PSBDb250ZXh0e1NlcnZpY2U6ICJ0ZXN0In0K</text>
+        <text encoding="base64">CXMgOj0gYnVmaW8uTmV3U2Nhbm5lcihyLkJvZHkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5nZXN0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVNlcnZpY2Ugc3RyaW5nCg==</text>
+        <text encoding="base64">CmZ1bmMgKG0gTW9uaXRvcikgcGFyc2UocHJvZmlsZSBzdHJpbmcsIHNlcnZpY2Ugc3RyaW5nKSAocHJvZnRvb2xzLlByb2ZpbGUsIGVycm9yKSB7CglzIDo9IGJ1ZmlvLk5ld1NjYW5uZXIoYnl0ZXMuTmV3QnVmZmVyU3RyaW5nKHByb2ZpbGUpKQoJY3R4IDo9IHByb2Z0b29scy5Db250ZXh0e1NlcnZpY2U6IHNlcnZpY2V9CglpIDo9IHByb2Z0b29scy5OZXdJbmdlc3RlcihjdHgpCglmb3Igcy5TY2FuKCkgewoJCXN0LCBlcnIgOj0gbS5wYXJzZXIuUGFyc2Uocy5UZXh0KCksIGN0eCkKCQlpZiBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIHByb2Z0b29scy5Qcm9maWxle30sIGVycgoJCX0KCgkJaS5Jbmdlc3Qoc3QpCgl9CgoJaWYgZXJyIDo9IHMuRXJyKCk7IGVyciAhPSBuaWwgewoJCXJldHVybiBwcm9mdG9vbHMuUHJvZmlsZXt9LCBlcnIKCX0KCglyZXR1cm4gaS5HZXQoKSwgbmlsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIENvbnRleHQgZGVzY3JpYmVzIHRoZSBwcm9maWxpbmcgY29udGV4dC0taS5lLiB3aGF0IHNlcnZpY2UgaXMgYmVpbmcgcHJvZmlsZWQuCnR5cGUgQ29udGV4dCBzdHJ1Y3QgewoJU2VydmljZSBzdHJpbmcKfQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBwcm9mdG9vbHMuUHJvZmlsZXt9LCBlcnIKCX0KCXJldHVybiBwLCBuaWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRlZmVyIG0uCg==</text>
+        <text encoding="base64">CXJldHVybiBzdHJpbmcoaC5TdW0obmlsKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNoU3RhY2tcPg==</last-search>
+      <last-search encoding="base64">XDxwY2hhblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNoU3RhY2tcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxwY2hhblw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
-        <entry encoding="base64">XDxpbnRlcm5GcmFtZVw+</entry>
-        <entry encoding="base64">XDxyZWRpc19jbGllbnRcPg==</entry>
         <entry encoding="base64">XDxhc3luY19wb29sXD4=</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxuZXdzdFw+</entry>
@@ -419,6 +415,9 @@
         <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry encoding="base64">XDxGcmFtZVRvSWRcPg==</entry>
         <entry encoding="base64">XDxoYXNoU3RhY2tcPg==</entry>
+        <entry encoding="base64">XDxFcnJDbHVzdG9cPg==</entry>
+        <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
+        <entry encoding="base64">XDxwY2hhblw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
