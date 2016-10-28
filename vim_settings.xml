@@ -64,13 +64,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" timestamp="1477688061299">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" timestamp="1477688978289">
+        <mark key="'" line="92" column="25" />
         <mark key="j" line="96" column="15" />
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="66" />
-        <mark key="." line="98" column="66" />
-        <mark key="^" line="98" column="66" />
+        <mark key="[" line="96" column="50" />
+        <mark key="]" line="96" column="51" />
+        <mark key="." line="96" column="51" />
+        <mark key="^" line="96" column="51" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/perfm.go" timestamp="1477267118690">
         <mark key="'" line="205" column="0" />
@@ -223,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="23" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" />
-      <jump line="19" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" />
-      <jump line="50" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" />
       <jump line="21" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" />
       <jump line="129" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
@@ -323,13 +320,16 @@
       <jump line="130" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" />
       <jump line="16" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" />
+      <jump line="94" column="16" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" />
+      <jump line="112" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" />
+      <jump line="92" column="25" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/merge/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dur</text>
+        <text>os.Stdout</text>
       </register>
       <register name="-" type="4">
-        <text>dur</text>
+        <text>os.Stdout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXJnZXJcPg==</text>
