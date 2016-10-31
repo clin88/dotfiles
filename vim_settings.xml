@@ -253,12 +253,12 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reverse/main.go" timestamp="1477891933259">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="26" column="19" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reverse/main.go" timestamp="1477895767236">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/merge.go" timestamp="1477540771089">
         <mark key="'" line="0" column="18" />
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>groupers[grp].f(st)</text>
+        <text>libprof.</text>
       </register>
       <register name="-" type="4">
-        <text>groupers[grp].f(st)</text>
+        <text>libprof.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
