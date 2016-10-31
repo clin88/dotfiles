@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/fgtool/ingester.go" timestamp="1477266190953">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfreverse/main.go" timestamp="1477947614391">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="30" column="30" />
@@ -22,18 +17,13 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1477949009282">
+      <file name="/a.dummy" timestamp="1477950451487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/raven-python/raven/contrib/tornado/__init__.py" timestamp="1477950203641" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1477267456932">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/leafs/main.go" timestamp="1477887650613">
         <mark key="'" line="60" column="13" />
         <mark key="[" line="38" column="0" />
@@ -84,11 +74,6 @@
       <file name="$USER_HOME$/code/trident/trident/mappers/thrift_mappers.py" timestamp="1477947195771">
         <mark key="'" line="89" column="26" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proflib/profile.go" timestamp="1477541247795">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tornado/tornado/gen.py" timestamp="1477949734916">
         <mark key="'" line="26" column="0" />
       </file>
@@ -127,17 +112,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main_test.go" timestamp="1477273905078">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tornado/tornado/stack_context.py" timestamp="1477949240651" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" timestamp="1477934582030">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/trident/trident/entities/trip_sub_entity.py" timestamp="1477947180142">
         <mark key="'" line="2" column="24" />
       </file>
@@ -157,6 +132,9 @@
         <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/code/simcom/simcom/lib/async.py" timestamp="1477948778141" />
+      <file name="$USER_HOME$/code/raven-python/raven/transport/tornado.py" timestamp="1477950366212">
+        <mark key="'" line="58" column="29" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser_test.go" timestamp="1477518005889">
         <mark key="'" line="21" column="43" />
         <mark key="[" line="21" column="43" />
@@ -170,6 +148,10 @@
         <mark key="]" line="23" column="15" />
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/simcom/config/secrets.yaml" timestamp="1477950437753">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="132" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477037235187">
         <mark key="'" line="66" column="0" />
@@ -246,11 +228,6 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/profiletools.go" timestamp="1477268022702">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/code/trident/trident/lib/concurrent.py" timestamp="1477937788968">
         <mark key="'" line="29" column="29" />
       </file>
@@ -281,11 +258,6 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reverse/main.go" timestamp="1477927576732">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/merge.go" timestamp="1477540771089">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="18" column="29" />
@@ -302,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/leafs/main.go" />
       <jump line="13" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/leafs/main.go" />
       <jump line="58" column="5" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/leafs/main.go" />
       <jump line="33" column="22" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/leafs/main.go" />
@@ -402,10 +373,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfreverse/main.go" />
       <jump line="107" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" />
       <jump line="26" column="0" filename="$USER_HOME$/code/tornado/tornado/gen.py" />
+      <jump line="58" column="29" filename="$USER_HOME$/code/raven-python/raven/transport/tornado.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is a map of stacks to associated durations.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB1cmw6ICZzZW50cnlfZHNuICJ0b3JuYWRvK2h0dHA6Ly9mNGMxZDUyOTc0YjE0OTg4YmZlODMxYTVjNDQ1NjM1MzpmN2U3NjgwYTlmZTk0ZGMwOTViZjc4ZTljYjNkNDY1NkBzZW50cnkubG9jYWwudWJlci5pbnRlcm5hbC80OTYiCg==</text>
       </register>
       <register name="-" type="4">
         <text>is a map of stacks to associated durations.</text>
