@@ -5,7 +5,13 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta alt minus" />
+  </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta alt equals" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift meta p" />
