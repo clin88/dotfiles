@@ -45,12 +45,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="61" column="52" />
       </file>
-      <file name="$USER_HOME$/code/tornado/tornado/ioloop.py" timestamp="1477945187667">
-        <mark key="'" line="829" column="29" />
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="0" />
-        <mark key="." line="598" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/main.go/trim.go" timestamp="1477954156428">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="23" column="12" />
@@ -324,11 +318,11 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/code/clay/clay/stats.py" timestamp="1477956930670">
+        <mark key="'" line="609" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reverse/main.go" />
-      <jump line="8" column="16" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" />
-      <jump line="9" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" />
       <jump line="1" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/types.go" />
       <jump line="17" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" />
       <jump line="16" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" />
@@ -426,6 +420,9 @@
       <jump line="23" column="12" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/main.go/trim.go" />
       <jump line="5" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" />
       <jump line="85" column="36" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" />
+      <jump line="522" column="4" filename="$USER_HOME$/code/clay/clay/stats.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/clay/clay/stats.py" />
+      <jump line="609" column="4" filename="$USER_HOME$/code/clay/clay/stats.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
