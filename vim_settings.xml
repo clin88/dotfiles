@@ -84,12 +84,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" timestamp="1477947615343">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="95" column="94" />
-        <mark key="]" line="95" column="94" />
-        <mark key="." line="95" column="94" />
-        <mark key="^" line="95" column="94" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" timestamp="1477951441781">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/development.yaml" timestamp="1476320766994">
         <mark key="'" line="1" column="0" />
@@ -377,7 +376,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1cmw6ICZzZW50cnlfZHNuICJ0b3JuYWRvK2h0dHA6Ly9mNGMxZDUyOTc0YjE0OTg4YmZlODMxYTVjNDQ1NjM1MzpmN2U3NjgwYTlmZTk0ZGMwOTViZjc4ZTljYjNkNDY1NkBzZW50cnkubG9jYWwudWJlci5pbnRlcm5hbC80OTYiCg==</text>
+        <text encoding="base64">CQkJZm10LkZwcmludGYob3MuU3RkZXJyLCAiREVCVUcgJWQgJWQgJXYgJXYgJWQgJWRcbiIsIHcuRGVwdGgoKSwgaSwgbC5GcmFtZXNbOmkrMV0sIHIuRnJhbWVzWzppKzFdLCBsdywgcncpCg==</text>
       </register>
       <register name="-" type="4">
         <text>is a map of stacks to associated durations.</text>
@@ -389,31 +388,31 @@
         <text encoding="base64">CXZhciBzdHMgW11TdGFjawoJZm9yIGssIHYgOj0gcmFuZ2UgbS5tIHsKCQlzdHMgPSBhcHBlbmQoc3RzLCBTdGFja3tGcmFtZXM6IGZyb21LZXkoayksIER1cmF0aW9uOiB2fSkKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuYyAobSBTdGFja01hcCkgU2V0KHN0IFtdc3RyaW5nLCBkdXIgaW50KSB7CgltLm1bdG9LZXkoc3QpXSA9IGR1cgp9Cgo=</text>
+        <text encoding="base64">CQkJZm10LkZwcmludGYob3MuU3RkZXJyLCAiREVCVUcgJWQgJWQgJXYgJXYgJWQgJWRcbiIsIHcuRGVwdGgoKSwgaSwgbC5GcmFtZXNbOmkrMV0sIHIuRnJhbWVzWzppKzFdLCBsdywgcncpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyAobSBTdGFja01hcCkgU2V0KHN0IFtdc3RyaW5nLCBkdXIgaW50KSB7CgltLm1bdG9LZXkoc3QpXSA9IGR1cgp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gU29ydGVkIHJldHVybnMgc3RhY2tzIHNvcnRlZCBsZXhpY29ncmFwaGljYWxseQpmdW5jIChtIFN0YWNrTWFwKSBTb3J0ZWQoKSBbXVN0YWNrIHsKCXJldHVybiBtLlNvcnRCeShmdW5jKGwsIHIgU3RhY2spIGJvb2wgewoJCXJldHVybiB0b0tleShsLkZyYW1lcykgPCB0b0tleShyLkZyYW1lcykKCX0pCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Ly8gU29ydGVkIHJldHVybnMgc3RhY2tzIHNvcnRlZCBsZXhpY29ncmFwaGljYWxseQpmdW5jIChtIFN0YWNrTWFwKSBTb3J0ZWQoKSBbXVN0YWNrIHsKCXJldHVybiBtLlNvcnRCeShmdW5jKGwsIHIgU3RhY2spIGJvb2wgewoJCXJldHVybiB0b0tleShsLkZyYW1lcykgPCB0b0tleShyLkZyYW1lcykKCX0pCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZvciBfLCBzdCA6PSByYW5nZSByZXN1bHQuU29ydGVkKCkgewo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CWZvciBfLCBzdCA6PSByYW5nZSByZXN1bHQuU29ydGVkKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5fX25hbWVfXwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5fX25hbWVfXwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWwuc2V0aXRpbWVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
