@@ -97,7 +97,6 @@
       <file name="$USER_HOME$/code/trident/trident/mappers/thrift_mappers.py" timestamp="1477947195771">
         <mark key="'" line="89" column="26" />
       </file>
-      <file name="$USER_HOME$/code/asgard/asgard/celery.py" timestamp="1478029743334" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proflib/profile.go" timestamp="1477541247795">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -154,6 +153,12 @@
       <file name="$USER_HOME$/code/trident/trident/entities/trip_sub_entity.py" timestamp="1477947180142">
         <mark key="'" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/code/trident/requirements.in" timestamp="1478035300937">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/merge.go" timestamp="1477540280227">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="0" column="16" />
@@ -178,7 +183,6 @@
         <mark key="." line="21" column="43" />
         <mark key="^" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/code/tornado/tornado/util.py" timestamp="1478025623987" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" timestamp="1477944420516">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="22" column="0" />
