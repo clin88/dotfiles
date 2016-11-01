@@ -97,6 +97,7 @@
       <file name="$USER_HOME$/code/trident/trident/mappers/thrift_mappers.py" timestamp="1477947195771">
         <mark key="'" line="89" column="26" />
       </file>
+      <file name="$USER_HOME$/code/asgard/asgard/celery.py" timestamp="1478029743334" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proflib/profile.go" timestamp="1477541247795">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
