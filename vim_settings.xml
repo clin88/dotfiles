@@ -26,7 +26,6 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/raven-python/raven/contrib/tornado/__init__.py" timestamp="1477950203641" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1477267456932">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -137,7 +136,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tornado/tornado/stack_context.py" timestamp="1477949240651" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" timestamp="1477934582030">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -153,7 +151,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/simcom/simcom/chat_onboarding/chatbot/repositories/chat_messages.py" timestamp="1477948952017" />
       <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1477079364789">
         <mark key="'" line="59" column="20" />
         <mark key="[" line="20" column="32" />
@@ -161,7 +158,6 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/code/simcom/simcom/lib/async.py" timestamp="1477948778141" />
       <file name="$USER_HOME$/code/raven-python/raven/transport/tornado.py" timestamp="1477950366212">
         <mark key="'" line="58" column="29" />
       </file>
@@ -285,7 +281,6 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/code/raven-python/raven/base.py" timestamp="1477950210911" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477540821990">
         <mark key="'" line="85" column="25" />
         <mark key="[" line="22" column="0" />
@@ -318,7 +313,7 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/code/clay/clay/stats.py" timestamp="1477956930670">
+      <file name="$USER_HOME$/code/clay/clay/stats.py" timestamp="1477964032719">
         <mark key="'" line="609" column="4" />
       </file>
     </filemarks>
