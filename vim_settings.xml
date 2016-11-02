@@ -112,8 +112,8 @@
       <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/tornaduv/__init__.py" timestamp="1478040683969">
         <mark key="'" line="211" column="56" />
       </file>
-      <file name="$USER_HOME$/code/trident/tornaduv/__init__.py" timestamp="1478125287932">
-        <mark key="'" line="106" column="37" />
+      <file name="$USER_HOME$/code/trident/tornaduv/__init__.py" timestamp="1478128701665">
+        <mark key="'" line="179" column="8" />
         <mark key="[" line="188" column="52" />
         <mark key="]" line="188" column="55" />
         <mark key="^" line="188" column="55" />
@@ -150,6 +150,9 @@
       <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1478113179367" />
       <file name="$USER_HOME$/code/trident/trident/entities/trip_sub_entity.py" timestamp="1477947180142">
         <mark key="'" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" timestamp="1478128494133">
+        <mark key="'" line="249" column="31" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/ringpop/lib/python2.7/site-packages/tornado/stack_context.py" timestamp="1478121701433">
         <mark key="'" line="270" column="41" />
@@ -340,9 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/main.go/trim.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/main.go/trim.go" />
-      <jump line="34" column="31" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/main.go/trim.go" />
       <jump line="34" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfreverse/main.go" />
       <jump line="25" column="46" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/main.go/trim.go" />
       <jump line="93" column="6" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" />
@@ -426,7 +426,6 @@
       <jump line="247" column="8" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" />
       <jump line="251" column="12" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" />
       <jump line="194" column="12" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" />
-      <jump line="184" column="13" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
       <jump line="45" column="13" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
       <jump line="177" column="0" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
       <jump line="21" column="0" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
@@ -440,6 +439,10 @@
       <jump line="95" column="37" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
       <jump line="106" column="37" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
       <jump line="18" column="13" filename="$USER_HOME$/code/trident/config/base.yaml" />
+      <jump line="249" column="31" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
+      <jump line="138" column="42" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
+      <jump line="179" column="8" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
