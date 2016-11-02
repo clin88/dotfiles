@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/code/trident/trident/entities/client_fare.py" timestamp="1477947155250">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/trident/config/base.yaml" timestamp="1478049285103">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="20" />
-        <mark key="." line="35" column="20" />
+      <file name="$USER_HOME$/code/trident/config/base.yaml" timestamp="1478117276722">
+        <mark key="[" line="22" column="67" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477541004371">
         <mark key="[" line="0" column="16" />
@@ -176,8 +177,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/code/trident/trident/main.py" timestamp="1478113213414">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/code/trident/trident/main.py" timestamp="1478117635233">
+        <mark key="'" line="62" column="41" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/merge.go" timestamp="1477540280227">
         <mark key="'" line="21" column="0" />
@@ -362,10 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="42" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" />
-      <jump line="54" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" />
-      <jump line="34" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" />
-      <jump line="33" column="4" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" />
       <jump line="18" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/stackmap.go" />
       <jump line="20" column="29" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/stackmap.go" />
       <jump line="70" column="30" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" />
@@ -462,10 +463,14 @@
       <jump line="50" column="8" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pftrim/main.go" />
       <jump line="56" column="20" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pftrim/main.go" />
       <jump line="21" column="0" filename="$USER_HOME$/code/trident/trident/main.py" />
+      <jump line="46" column="45" filename="$USER_HOME$/code/trident/trident/main.py" />
+      <jump line="150" column="12" filename="$USER_HOME$/code/trident/trident/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/trident/trident/main.py" />
+      <jump line="62" column="41" filename="$USER_HOME$/code/trident/trident/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLmlvbG9vcCBpbXBvcnQgSU9Mb29wCmZyb20gdG9ybmFkdXYgaW1wb3J0IFVWTG9vcApJT0xvb3AuY29uZmlndXJlKFVWTG9vcCkKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -477,31 +482,31 @@
         <text encoding="base64">CQkJaWYgYmxhY2tsaXN0Lk1hdGNoU3RyaW5nKGZyKSB7CgkJCQljb250aW51ZQoJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLmlvbG9vcCBpbXBvcnQgSU9Mb29wCmZyb20gdG9ybmFkdXYgaW1wb3J0IFVWTG9vcApJT0xvb3AuY29uZmlndXJlKFVWTG9vcCkKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLmlvbG9vcCBpbXBvcnQgSU9Mb29wCmZyb20gdG9ybmFkdXYgaW1wb3J0IFVWTG9vcApJT0xvb3AuY29uZmlndXJlKFVWTG9vcCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLmlvbG9vcCBpbXBvcnQgSU9Mb29wCmZyb20gdG9ybmFkdXYgaW1wb3J0IFVWTG9vcApJT0xvb3AuY29uZmlndXJlKFVWTG9vcCkK</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SU9Mb29wLmNvbmZpZ3VyZShVVkxvb3ApCg==</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLmlvbG9vcCBpbXBvcnQgSU9Mb29wCmZyb20gdG9ybmFkdXYgaW1wb3J0IFVWTG9vcApJT0xvb3AuY29uZmlndXJlKFVWTG9vcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU9Mb29wLmNvbmZpZ3VyZShVVkxvb3ApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElPTG9vcC5jb25maWd1cmUoVVZMb29wKQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oc3QuRnJhbWVzLCBtYXhGcmFtZXMpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIElPTG9vcC5jb25maWd1cmUoVVZMb29wKQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZm10LlByaW50bG4oc3QuRnJhbWVzLCBtYXhGcmFtZXMpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKCJpbnZhbGlkIHJlZ2V4IikKCQlvcy5FeGl0KDEpCgl9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
