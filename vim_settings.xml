@@ -68,11 +68,11 @@
       <file name="$USER_HOME$/code/trident/trident/entities/client_fare.py" timestamp="1477947155250">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/trident/config/base.yaml" timestamp="1478126889909">
+      <file name="$USER_HOME$/code/trident/config/base.yaml" timestamp="1478129588901">
         <mark key="'" line="18" column="13" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
         <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477541004371">
@@ -112,12 +112,11 @@
       <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/tornaduv/__init__.py" timestamp="1478040683969">
         <mark key="'" line="211" column="56" />
       </file>
-      <file name="$USER_HOME$/code/trident/tornaduv/__init__.py" timestamp="1478128701665">
-        <mark key="'" line="179" column="8" />
-        <mark key="[" line="188" column="52" />
-        <mark key="]" line="188" column="55" />
-        <mark key="^" line="188" column="55" />
-        <mark key="." line="188" column="55" />
+      <file name="$USER_HOME$/code/trident/tornaduv/__init__.py" timestamp="1478129593238">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="185" column="55" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/development.yaml" timestamp="1476320766994">
         <mark key="'" line="1" column="0" />
@@ -446,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gdG9ybmFkby5pb2xvb3AgaW1wb3J0IElPTG9vcAogICAgZnJvbSB0b3JuYWR1diBpbXBvcnQgVVZMb29wCiAgICBJT0xvb3AuY29uZmlndXJlKFVWTG9vcCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGRlYWRsaW5lLCB0aW1lZGVsdGEpOgogICAgICAgICAgICBkZWFkbGluZSA9IGRlYWRsaW5lLnRvdGFsX3NlY29uZHMoKQoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGltZSgpICsg</text>
+        <text>-test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaGFuZGxlX3BvbGxfZXZlbnRzXD4=</text>
@@ -458,31 +457,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lci5jbG9zZSgpCiAgICAgICAgc2VsZi5fdGltZXIgPSBOb25lCiAgICAgICAgaW9fbG9vcCA9IElPTG9vcC5jdXJyZW50KCkKICAgICAgICBpb19sb29wLl90aW1lb3V0cy5yZW1vdmUoc2VsZikKICAgICAgICBpb19sb29wLl9ydW5fY2FsbGJhY2soc2VsZi5jYWxsYmFjaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGRlYWRsaW5lLCB0aW1lZGVsdGEpOgogICAgICAgICAgICBkZWFkbGluZSA9IGRlYWRsaW5lLnRvdGFsX3NlY29uZHMoKQoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cyA9IHNldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cyA9IHNldCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdGltZW91dHMucmVtb3ZlKHNlbGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cy5hZGQodGltZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdGltZW91dHMucmVtb3ZlKHNlbGYpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cy5hZGQodGltZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cy5kaXNjYXJkKHRpbWVvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cy5hZGQodGltZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmX3RpbWVvdXRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl90aW1lb3V0cy5kaXNjYXJkKHRpbWVvdXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bWJlcnMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmX3RpbWVvdXRzID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
