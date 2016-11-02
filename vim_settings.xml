@@ -155,6 +155,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="18" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1478109633433" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main_test.go" timestamp="1477273905078">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -197,7 +198,6 @@
       <file name="$USER_HOME$/code/raven-python/raven/transport/tornado.py" timestamp="1477950366212">
         <mark key="'" line="58" column="29" />
       </file>
-      <file name="$USER_HOME$/code/trident/setup.py" timestamp="1478049013909" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser_test.go" timestamp="1477518005889">
         <mark key="'" line="21" column="43" />
         <mark key="[" line="21" column="43" />
