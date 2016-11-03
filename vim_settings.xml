@@ -22,6 +22,7 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/ringpop/lib/python2.7/site-packages/tornado/ioloop.py" timestamp="1478130528970" />
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pftrim/main.go" timestamp="1478112876190">
         <mark key="'" line="55" column="20" />
         <mark key="[" line="48" column="0" />
