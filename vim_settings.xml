@@ -76,6 +76,12 @@
       <file name="$USER_HOME$/code/raven-python/raven/transport/tornado.py" timestamp="1477950366212">
         <mark key="'" line="58" column="29" />
       </file>
+      <file name="$USER_HOME$/code/tornaduv/test_me.py" timestamp="1478213635236">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477037235187">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="54" column="18" />
@@ -89,8 +95,12 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/code/tornaduv/setup.py" timestamp="1478304629397">
-        <mark key="'" line="4" column="6" />
+      <file name="$USER_HOME$/code/tornaduv/setup.py" timestamp="1478331609840">
+        <mark key="'" line="39" column="30" />
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="88" column="38" />
+        <mark key="." line="88" column="38" />
+        <mark key="^" line="88" column="38" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser_test.go" timestamp="1477371029054">
         <mark key="'" line="27" column="21" />
@@ -263,6 +273,12 @@
         <mark key="." line="1" column="40" />
         <mark key="^" line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/code/tornaduv/requirements.txt" timestamp="1478330941851">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477541004371">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="0" />
@@ -388,12 +404,12 @@
         <mark key="." line="21" column="43" />
         <mark key="^" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" timestamp="1478303173980">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="268" column="24" />
-        <mark key="]" line="268" column="27" />
-        <mark key="." line="268" column="27" />
-        <mark key="^" line="268" column="27" />
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" timestamp="1478331751619">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" timestamp="1477944420516">
         <mark key="'" line="36" column="0" />
@@ -495,24 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="19" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="336" column="22" filename="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" />
-      <jump line="290" column="13" filename="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/concurrent_test.py" />
-      <jump line="190" column="17" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="177" column="63" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="228" column="45" filename="$USER_HOME$/code/trident/tornaduv/__init__.py" />
-      <jump line="288" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="172" column="18" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="258" column="11" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="279" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="265" column="11" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="96" column="11" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="273" column="34" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="275" column="28" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="278" column="27" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="184" column="26" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="185" column="23" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="12" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="22" column="37" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="283" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
@@ -522,7 +520,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="7" column="45" filename="$USER_HOME$/code/tornaduv/setup.py" />
       <jump line="17" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
-      <jump line="42" column="1" filename="$USER_HOME$/code/tornaduv/setup.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/requirements.txt" />
       <jump line="97" column="0" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/requirements.txt" />
@@ -546,7 +543,6 @@
       <jump line="196" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="35" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="266" column="18" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="270" column="20" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="43" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
       <jump line="40" column="29" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
@@ -554,7 +550,6 @@
       <jump line="47" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="271" column="43" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="27" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="285" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="1" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="27" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
@@ -595,61 +590,81 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/tornaduv/setup_libuv.py" />
       <jump line="6" column="0" filename="$USER_HOME$/code/tornaduv/.gitignore" />
       <jump line="9" column="8" filename="$USER_HOME$/code/tornaduv/.gitignore" />
+      <jump line="30" column="6" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="96" column="34" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/tornaduv/requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="40" column="27" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="54" column="6" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="90" column="7" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="47" column="37" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="39" column="30" filename="$USER_HOME$/code/tornaduv/setup.py" />
+      <jump line="180" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
+      <jump line="290" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>**/*.</text>
+        <text>super(libuv_build_ext, self)</text>
       </register>
       <register name="-" type="4">
-        <text>**/*.</text>
+        <text>super(libuv_build_ext, self)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWJ1dl9saWJcPg==</text>
+        <text encoding="base64">XDxsaWJ1dl9idWlsZF9leHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2RlZiBleHRlcm4gZnJvbSAiPHRpbWUuaD4iOgogICAgc3RydWN0IHRpbWVfdDoKICAgICAgICBwYXNzCgogICAgdGltZV90IHRpbWUodGltZV90ICphcmcpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiovKi5zbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvcmNlID0gc2VsZi5mb3JjZSBvciBzZWxmLmxpYnV2X2NsZWFuX2NvbXBpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX29wdGlvbnMoc2VsZik6CiAgICAgICAgYnVpbGRfZXh0LmluaXRpYWxpemVfb3B0aW9ucyhzZWxmKQogICAgICAgIHNlbGYubGlidXZfY2xlYW5fY29tcGlsZSA9IDAKICAgICAgICBzZWxmLmxpYnV2X3ZlcmJvc2VfYnVpbGQgPSAwCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW5fb3B0aW9ucyA9IGJ1aWxkX2V4dC5ib29sZWFuX29wdGlvbnMKICAgIGJvb2xlYW5fb3B0aW9ucy5leHRlbmQoWyJsaWJ1di1jbGVhbi1jb21waWxlIiwgICJsaWJ1di12ZXJib3NlLWJ1aWxkIl0pCgo=</text>
+        <text encoding="base64">c2V0dXAoCiAgICBuYW1lPSd0b3JuYWR1dicsCiAgICB2ZXJzaW9uPWdldF92ZXJzaW9uKCksCiAgICB1cmw9JycsCiAgICBhdXRob3I9J0NoZW4gTGluJywKICAgIGF1dGhvcl9lbWFpbD0nY2xpbkB1YmVyLmNvbScsCiAgICBsaWNlbnNlPSdNSVQgTGljZW5zZScsCiAgICBkZXNjcmlwdGlvbj0nVG9ybmFkbyBJT0xvb3AgaW1wbGVtZW50YXRpb24gd2l0aCBweXV2JywKICAgIGxvbmdfZGVzY3JpcHRpb249b3BlbignUkVBRE1FLnJzdCcsICdyJykucmVhZCgpLAogICAgcGFja2FnZXM9Wyd0b3JuYWR1diddLAogICAgaW5zdGFsbF9yZXF1aXJlcz1bCiAgICAgICAgIlRvcm5hZG8+PTMuMCIsCiAgICAgICAgInB5dXY+PTEuMC4wIiwKICAgIF0sCiAgICBleHRfbW9kdWxlcz1leHRfbW9kdWxlcywKICAgIGNtZGNsYXNzPXsnYnVpbGRfZXh0JzogbGlidXZfYnVpbGRfZXh0fSwKICAgIGNsYXNzaWZpZXJzPVsKICAgICAgICAnRGV2ZWxvcG1lbnQgU3RhdHVzIDo6IDQgLSBCZXRhJywKICAgICAgICAnSW50ZW5kZWQgQXVkaWVuY2UgOjogRGV2ZWxvcGVycycsCiAgICAgICAgJ0xpY2Vuc2UgOjogT1NJIEFwcHJvdmVkIDo6IE1JVCBMaWNlbnNlJywKICAgICAgICAnT3BlcmF0aW5nIFN5c3RlbSA6OiBQT1NJWCcsCiAgICAgICAgJ09wZXJhdGluZyBTeXN0ZW0gOjogTWljcm9zb2Z0IDo6IFdpbmRvd3MnLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24nLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMicsCiAgICAgICAgJ1Byb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAyLjcnLAogICAgXQopCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJfb3B0aW9ucyA9IGJ1aWxkX2V4dC51c2VyX29wdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZXJfb3B0aW9ucy5leHRlbmQoWwogICAgICAgICgibGlidXYtY2xlYW4tY29tcGlsZSIsIE5vbmUsICJDbGVhbiBsaWJ1diB0cmVlIGJlZm9yZSBjb21waWxhdGlvbiIpLAogICAgICAgICgibGlidXYtdmVyYm9zZS1idWlsZCIsIE5vbmUsICJQcmludCBvdXRwdXQgb2YgbGlidXYgYnVpbGQgcHJvY2VzcyIpLAogICAgXSkK</text>
+        <text encoding="base64">Y2RlZiBleHRlcm4gZnJvbSAidXYuaCI6CiAgICBzdHJ1Y3QgdXZfbG9vcF9zOgogICAgICAgIHBhc3MKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9saWJ1digpCgo=</text>
+        <text encoding="base64">Y3l0aG9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZF9leHQuYnVpbGRfZXh0ZW5zaW9ucyhzZWxmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2xpYnV2KHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWJ1dl9saWJcPg==</last-search>
+      <last-search encoding="base64">XDxsaWJ1dl9idWlsZF9leHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWJ1dl9saWJcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxsaWJ1dl9idWlsZF9leHRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGF5X2h5cGVyYmFobl9zZXJ2ZVw+</entry>
         <entry encoding="base64">XDxfdGltZXJfY2JcPg==</entry>
         <entry encoding="base64">XDxfcHJlcGFyZV9jYlw+</entry>
         <entry encoding="base64">XDxfdGltZW91dHNcPg==</entry>
@@ -669,6 +684,7 @@
         <entry encoding="base64">XDxsaWJ1dl92ZXJib3NlX2J1aWxkXD4=</entry>
         <entry encoding="base64">XDxsaWJ1dl9kaXJcPg==</entry>
         <entry encoding="base64">XDxsaWJ1dl9saWJcPg==</entry>
+        <entry encoding="base64">XDxsaWJ1dl9idWlsZF9leHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
