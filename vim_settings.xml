@@ -3,48 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/fgtool/ingester.go" timestamp="1477266190953">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfreverse/main.go" timestamp="1477953739245">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/tagweights.go" timestamp="1477944413548">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/asgard/udeploy/pinocchio.yaml" timestamp="1478024291065">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-      </file>
-      <file name="/a.dummy" timestamp="1478302330315">
+      <file name="/a.dummy" timestamp="1478329725363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/runtests.py" timestamp="1478228106108" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1477267456932">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pftrim/main.go" timestamp="1478112876190">
-        <mark key="'" line="55" column="20" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/leafs/main.go" timestamp="1477887650613">
         <mark key="'" line="60" column="13" />
         <mark key="[" line="38" column="0" />
@@ -65,13 +30,6 @@
       <file name="$USER_HOME$/code/tornado/tornado/ioloop.py" timestamp="1478025582765">
         <mark key="'" line="881" column="57" />
       </file>
-      <file name="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" timestamp="1477073251532">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1774" column="26" />
-        <mark key="]" line="1774" column="0" />
-        <mark key="^" line="1774" column="0" />
-        <mark key="." line="1774" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proflib/helpers.go" timestamp="1477887713991">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="4" />
@@ -87,67 +45,9 @@
       <file name="$USER_HOME$/code/trident/trident/entities/client_fare.py" timestamp="1477947155250">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/trident/config/base.yaml" timestamp="1478129588901">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="0" column="35" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477541004371">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/code/trident/config/local.yaml" timestamp="1478124380781" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reversefg/main.go" timestamp="1477887373017">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/trident/trident/mappers/thrift_mappers.py" timestamp="1477947195771">
-        <mark key="'" line="89" column="26" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proflib/profile.go" timestamp="1477541247795">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/trident/config/sjc1.yaml" timestamp="1478124218440" />
-      <file name="$USER_HOME$/code/tornado/tornado/gen.py" timestamp="1477949734916">
-        <mark key="'" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tornaduv/tornaduv/test.pyx" timestamp="1478302353069">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/stackmap.go" timestamp="1477947600960">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" timestamp="1477954087407">
-        <mark key="'" line="86" column="36" />
-        <mark key="[" line="63" column="59" />
-        <mark key="]" line="63" column="60" />
-        <mark key="." line="63" column="60" />
-        <mark key="^" line="63" column="60" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/tornaduv/__init__.py" timestamp="1478040683969">
         <mark key="'" line="211" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/trident/tornaduv/__init__.py" timestamp="1478229315033">
-        <mark key="'" line="228" column="45" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="185" column="55" />
-        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/development.yaml" timestamp="1476320766994">
         <mark key="'" line="1" column="0" />
@@ -155,13 +55,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/code/trident/requirements.txt" timestamp="1478038921342">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="89" column="14" />
-        <mark key="^" line="89" column="14" />
-        <mark key="." line="89" column="14" />
       </file>
       <file name="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/config/base.yaml" timestamp="1478292134313">
         <mark key="'" line="595" column="39" />
@@ -177,91 +70,11 @@
         <mark key="." line="80" column="12" />
         <mark key="^" line="80" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser.go" timestamp="1477371026451">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="18" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1478113179367" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main_test.go" timestamp="1477273905078">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" timestamp="1477934582030">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/trident/trident/entities/trip_sub_entity.py" timestamp="1477947180142">
         <mark key="'" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" timestamp="1478226403395">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/ringpop/lib/python2.7/site-packages/tornado/stack_context.py" timestamp="1478121701433">
-        <mark key="'" line="270" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/trident/requirements.in" timestamp="1478035300937">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="19" column="15" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/trident/trident/main.py" timestamp="1478117635233">
-        <mark key="'" line="62" column="41" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/tornaduv/.gitignore" timestamp="1478303365429">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/merge.go" timestamp="1477540280227">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1477079364789">
-        <mark key="'" line="59" column="20" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="86" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-      </file>
       <file name="$USER_HOME$/code/raven-python/raven/transport/tornado.py" timestamp="1477950366212">
         <mark key="'" line="58" column="29" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser_test.go" timestamp="1477518005889">
-        <mark key="'" line="21" column="43" />
-        <mark key="[" line="21" column="43" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="26" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" timestamp="1478303173980">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="268" column="24" />
-        <mark key="]" line="268" column="27" />
-        <mark key="." line="268" column="27" />
-        <mark key="^" line="268" column="27" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" timestamp="1477944420516">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfm/writer.go" timestamp="1477037235187">
         <mark key="'" line="66" column="0" />
@@ -270,27 +83,14 @@
         <mark key="." line="54" column="28" />
         <mark key="^" line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.c" timestamp="1478235729019">
-        <mark key="'" line="13064" column="20" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/tagweights.go" timestamp="1477935907711">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/group/main.go" timestamp="1477894639698">
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="30" />
-        <mark key="." line="77" column="30" />
-        <mark key="^" line="77" column="30" />
-      </file>
       <file name="$USER_HOME$/code/tornaduv/setup.py" timestamp="1478304629397">
-        <mark key="'" line="32" column="6" />
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+        <mark key="'" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser_test.go" timestamp="1477371029054">
         <mark key="'" line="27" column="21" />
@@ -345,24 +145,6 @@
         <mark key="." line="60" column="52" />
         <mark key="^" line="60" column="10" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" timestamp="1477527487995">
-        <mark key="'" line="22" column="38" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/chentest/forktest.py" timestamp="1478293213450">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="9" />
-      </file>
-      <file name="$USER_HOME$/code/tornaduv/setup_libuv.py" timestamp="1478307146345">
-        <mark key="'" line="10" column="0" />
-        <mark key="^" line="13" column="7" />
-      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/Profile.go" timestamp="1477371022906">
         <mark key="'" line="10" column="18" />
         <mark key="[" line="9" column="25" />
@@ -371,19 +153,11 @@
         <mark key="^" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/ringpop/lib/python2.7/site-packages/Cython/Build/Dependencies.py" timestamp="1478212435233" />
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/profiletools.go" timestamp="1477268022702">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tornaduv/tornaduv/test.pyx.py" timestamp="1478211546716">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="13" />
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/trident/trident/lib/concurrent.py" timestamp="1477937788968">
-        <mark key="'" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/production.yaml" timestamp="1477083245032">
         <mark key="[" line="4" column="48" />
@@ -397,11 +171,6 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" timestamp="1478228579818">
-        <mark key="'" line="290" column="13" />
-        <mark key="[" line="682" column="8" />
-        <mark key="]" line="682" column="65" />
-      </file>
       <file name="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/requirements.txt" timestamp="1478234262727">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="11" />
@@ -409,37 +178,12 @@
         <mark key="^" line="88" column="9" />
         <mark key="." line="88" column="9" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/ioloop_test.py" timestamp="1478225846886">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="434" column="0" />
-        <mark key="." line="434" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletool/ingester.go" timestamp="1477267148339">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/trident/fabfile.py" timestamp="1478049241270">
-        <mark key="[" line="60" column="42" />
-        <mark key="]" line="60" column="52" />
-        <mark key="^" line="60" column="52" />
-        <mark key="." line="60" column="52" />
-      </file>
       <file name="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/trident/main.py" timestamp="1478235480509">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477540821990">
-        <mark key="'" line="85" column="25" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="86" column="22" />
       </file>
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/tornado/test/concurrent_test.py" timestamp="1478228519194">
         <mark key="[" line="68" column="0" />
@@ -460,6 +204,275 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/427334227/resource.py" timestamp="1478292941190">
         <mark key="'" line="56" column="8" />
       </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/profile_test.go" timestamp="1477529222666">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/clay/clay/stats.py" timestamp="1477964032719">
+        <mark key="'" line="609" column="4" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/fgtool/ingester.go" timestamp="1477266190953">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfreverse/main.go" timestamp="1477953739245">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/tagweights.go" timestamp="1477944413548">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/asgard/udeploy/pinocchio.yaml" timestamp="1478024291065">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config.go" timestamp="1477267456932">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pftrim/main.go" timestamp="1478112876190">
+        <mark key="'" line="55" column="20" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/promotions/promotions/handlers/thrift_promotions.py" timestamp="1477073251532">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1774" column="26" />
+        <mark key="]" line="1774" column="0" />
+        <mark key="^" line="1774" column="0" />
+        <mark key="." line="1774" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/trident/config/base.yaml" timestamp="1478129588901">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftool/merge.go" timestamp="1477541004371">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reversefg/main.go" timestamp="1477887373017">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/trident/trident/mappers/thrift_mappers.py" timestamp="1477947195771">
+        <mark key="'" line="89" column="26" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proflib/profile.go" timestamp="1477541247795">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/trident/config/sjc1.yaml" timestamp="1478124218440" />
+      <file name="$USER_HOME$/code/tornado/tornado/gen.py" timestamp="1477949734916">
+        <mark key="'" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/test.pyx" timestamp="1478302353069">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/stackmap.go" timestamp="1477947600960">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfgroup/main.go" timestamp="1477954087407">
+        <mark key="'" line="86" column="36" />
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="63" column="60" />
+        <mark key="." line="63" column="60" />
+        <mark key="^" line="63" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/trident/tornaduv/__init__.py" timestamp="1478229315033">
+        <mark key="'" line="228" column="45" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="185" column="55" />
+        <mark key="." line="179" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/trident/requirements.txt" timestamp="1478038921342">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="89" column="14" />
+        <mark key="^" line="89" column="14" />
+        <mark key="." line="89" column="14" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/parser.go" timestamp="1477371026451">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="45" column="18" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/clay_tornado/initializers/ioloop_blocking_threshold.py" timestamp="1478113179367" />
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/main_test.go" timestamp="1477273905078">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfmerge/main.go" timestamp="1477934582030">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.py" timestamp="1478226403395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/ringpop/lib/python2.7/site-packages/tornado/stack_context.py" timestamp="1478121701433">
+        <mark key="'" line="270" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/trident/requirements.in" timestamp="1478035300937">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/trident/trident/main.py" timestamp="1478117635233">
+        <mark key="'" line="62" column="41" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/.gitignore" timestamp="1478329557122">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/merge.go" timestamp="1477540280227">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/promotions/promotions/services/repositories/award_redemption_count.py" timestamp="1477079364789">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="86" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/parser_test.go" timestamp="1477518005889">
+        <mark key="'" line="21" column="43" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" timestamp="1478303173980">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="268" column="24" />
+        <mark key="]" line="268" column="27" />
+        <mark key="." line="268" column="27" />
+        <mark key="^" line="268" column="27" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" timestamp="1477944420516">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.c" timestamp="1478235729019">
+        <mark key="'" line="13064" column="20" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/group/main.go" timestamp="1477894639698">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="30" />
+        <mark key="." line="77" column="30" />
+        <mark key="^" line="77" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/MANIFEST.in" timestamp="1478329695450">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/Profile.go" timestamp="1477527487995">
+        <mark key="'" line="22" column="38" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/chentest/forktest.py" timestamp="1478293213450">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/tornaduv/setup_libuv.py" timestamp="1478307146345">
+        <mark key="'" line="10" column="0" />
+        <mark key="^" line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletools/profiletools.go" timestamp="1477268022702">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/trident/trident/lib/concurrent.py" timestamp="1477937788968">
+        <mark key="'" line="29" column="29" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" timestamp="1478228579818">
+        <mark key="'" line="290" column="13" />
+        <mark key="[" line="682" column="8" />
+        <mark key="]" line="682" column="65" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/ioloop_test.py" timestamp="1478225846886">
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/profiletool/ingester.go" timestamp="1477267148339">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/trident/fabfile.py" timestamp="1478049241270">
+        <mark key="[" line="60" column="42" />
+        <mark key="]" line="60" column="52" />
+        <mark key="^" line="60" column="52" />
+        <mark key="." line="60" column="52" />
+      </file>
+      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" timestamp="1477540821990">
+        <mark key="'" line="85" column="25" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="86" column="22" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/merge.go" timestamp="1477540771089">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="18" column="29" />
@@ -474,16 +487,6 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/proftools/profile_test.go" timestamp="1477529222666">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/clay/clay/stats.py" timestamp="1477964032719">
-        <mark key="'" line="609" column="4" />
-      </file>
       <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/concurrent_test.py" timestamp="1478228721049">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="73" column="0" />
@@ -492,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="16" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="189" column="20" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="195" column="19" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="336" column="22" filename="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" />
       <jump line="290" column="13" filename="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" />
@@ -592,13 +593,15 @@
       <jump line="26" column="13" filename="$USER_HOME$/code/tornaduv/setup_libuv.py" />
       <jump line="30" column="54" filename="$USER_HOME$/code/tornaduv/setup_libuv.py" />
       <jump line="10" column="0" filename="$USER_HOME$/code/tornaduv/setup_libuv.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/tornaduv/.gitignore" />
+      <jump line="9" column="8" filename="$USER_HOME$/code/tornaduv/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvcmNlID0gc2VsZi5mb3JjZSBvciBzZWxmLmxpYnV2X2NsZWFuX2NvbXBpbGUK</text>
+      <register name="&quot;" type="4">
+        <text>**/*.</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>**/*.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWJ1dl9saWJcPg==</text>
@@ -607,31 +610,31 @@
         <text encoding="base64">Y2RlZiBleHRlcm4gZnJvbSAiPHRpbWUuaD4iOgogICAgc3RydWN0IHRpbWVfdDoKICAgICAgICBwYXNzCgogICAgdGltZV90IHRpbWUodGltZV90ICphcmcpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvcmNlID0gc2VsZi5mb3JjZSBvciBzZWxmLmxpYnV2X2NsZWFuX2NvbXBpbGUK</text>
+        <text encoding="base64">KiovKi5zbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX29wdGlvbnMoc2VsZik6CiAgICAgICAgYnVpbGRfZXh0LmluaXRpYWxpemVfb3B0aW9ucyhzZWxmKQogICAgICAgIHNlbGYubGlidXZfY2xlYW5fY29tcGlsZSA9IDAKICAgICAgICBzZWxmLmxpYnV2X3ZlcmJvc2VfYnVpbGQgPSAwCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZvcmNlID0gc2VsZi5mb3JjZSBvciBzZWxmLmxpYnV2X2NsZWFuX2NvbXBpbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW5fb3B0aW9ucyA9IGJ1aWxkX2V4dC5ib29sZWFuX29wdGlvbnMKICAgIGJvb2xlYW5fb3B0aW9ucy5leHRlbmQoWyJsaWJ1di1jbGVhbi1jb21waWxlIiwgICJsaWJ1di12ZXJib3NlLWJ1aWxkIl0pCgo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplX29wdGlvbnMoc2VsZik6CiAgICAgICAgYnVpbGRfZXh0LmluaXRpYWxpemVfb3B0aW9ucyhzZWxmKQogICAgICAgIHNlbGYubGlidXZfY2xlYW5fY29tcGlsZSA9IDAKICAgICAgICBzZWxmLmxpYnV2X3ZlcmJvc2VfYnVpbGQgPSAwCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXJfb3B0aW9ucyA9IGJ1aWxkX2V4dC51c2VyX29wdGlvbnMK</text>
+        <text encoding="base64">ICAgIGJvb2xlYW5fb3B0aW9ucyA9IGJ1aWxkX2V4dC5ib29sZWFuX29wdGlvbnMKICAgIGJvb2xlYW5fb3B0aW9ucy5leHRlbmQoWyJsaWJ1di1jbGVhbi1jb21waWxlIiwgICJsaWJ1di12ZXJib3NlLWJ1aWxkIl0pCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJfb3B0aW9ucy5leHRlbmQoWwogICAgICAgICgibGlidXYtY2xlYW4tY29tcGlsZSIsIE5vbmUsICJDbGVhbiBsaWJ1diB0cmVlIGJlZm9yZSBjb21waWxhdGlvbiIpLAogICAgICAgICgibGlidXYtdmVyYm9zZS1idWlsZCIsIE5vbmUsICJQcmludCBvdXRwdXQgb2YgbGlidXYgYnVpbGQgcHJvY2VzcyIpLAogICAgXSkK</text>
+        <text encoding="base64">ICAgIHVzZXJfb3B0aW9ucyA9IGJ1aWxkX2V4dC51c2VyX29wdGlvbnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9saWJ1digpCgo=</text>
+        <text encoding="base64">ICAgIHVzZXJfb3B0aW9ucy5leHRlbmQoWwogICAgICAgICgibGlidXYtY2xlYW4tY29tcGlsZSIsIE5vbmUsICJDbGVhbiBsaWJ1diB0cmVlIGJlZm9yZSBjb21waWxhdGlvbiIpLAogICAgICAgICgibGlidXYtdmVyYm9zZS1idWlsZCIsIE5vbmUsICJQcmludCBvdXRwdXQgb2YgbGlidXYgYnVpbGQgcHJvY2VzcyIpLAogICAgXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZF9leHQuYnVpbGRfZXh0ZW5zaW9ucyhzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9saWJ1digpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2xpYnV2KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZF9leHQuYnVpbGRfZXh0ZW5zaW9ucyhzZWxmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjZmxhZ3MgPSAnLWZQSUMnCiAgICAgICAgZW52ID0gb3MuZW52aXJvbgogICAgICAgIGVudlsnQ0ZMQUdTJ10gPSAnICcuam9pbih4IGZvciB4IGluIChjZmxhZ3MsIGVudi5nZXQoJ0NGTEFHUycsIE5vbmUpLCBlbnYuZ2V0KCdBUkNIRkxBR1MnLCBOb25lKSkgaWYgeCkKICAgICAgICBsb2cuaW5mbygnQnVpbGRpbmcgbGlidXYuLi4nKQogICAgICAgIHN1YnByb2Nlc3MuY2FsbChbJy9iaW4vc2gnLCAnbGlidXYvYXV0b2dlbi5zaCddKQogICAgICAgIHN1YnByb2Nlc3MuY2FsbChbJy4vY29uZmlndXJlJ10sIGN3ZD1zZWxmLmxpYnV2X2RpcikKICAgICAgICBzdWJwcm9jZXNzLmNhbGwoWydtYWtlJ10sIGN3ZD1zZWxmLmxpYnV2X2RpcikK</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2xpYnV2KHNlbGYpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
