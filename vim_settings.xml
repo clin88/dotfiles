@@ -134,6 +134,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/.zshrc" timestamp="1478404364794">
+        <mark key="'" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/pfreverse/main.go" timestamp="1477953739245">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -271,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="19" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="58" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="124" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="213" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="72" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
@@ -371,6 +372,8 @@
       <jump line="205" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/perfmonitor/perfmonitor.go" />
       <jump line="31" column="1468" filename="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/testdata/profdata" />
       <jump line="17" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/fgtools/glide.yaml" />
+      <jump line="93" column="0" filename="$USER_HOME$/.zshrc" />
+      <jump line="3" column="22" filename="$USER_HOME$/.zshrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
