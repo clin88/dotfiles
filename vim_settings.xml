@@ -170,6 +170,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dotfiles/.vimrc" timestamp="1478411827063">
+        <mark key="'" line="38" column="1" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/cmd/reversefg/main.go" timestamp="1477887373017">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -224,12 +227,8 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1478407917586">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="52" column="58" />
-        <mark key="]" line="52" column="64" />
-        <mark key="^" line="52" column="64" />
-        <mark key="." line="52" column="64" />
+      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1478411832087">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.c" timestamp="1478235729019">
         <mark key="'" line="13064" column="20" />
@@ -285,12 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="86" column="44" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="88" column="33" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="90" column="60" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="112" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="121" column="30" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="113" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="93" column="18" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="220" column="18" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
@@ -385,10 +378,16 @@
       <jump line="8" column="0" filename="$USER_HOME$/.zshrc" />
       <jump line="84" column="0" filename="$USER_HOME$/.zshrc" />
       <jump line="11" column="22" filename="$USER_HOME$/.zshrc" />
+      <jump line="53" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="87" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="56" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="64" column="45" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="38" column="1" filename="$USER_HOME$/dotfiles/.vimrc" />
+      <jump line="1" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UE9XRVJMRVZFTDlLX0NPTE9SX1NDSEVNRT0nbGlnaHQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmNzIA==</text>
@@ -400,31 +399,31 @@
         <text encoding="base64">WlNIX1RIRU1FPSJwb3dlcmxldmVsOWsvcG93ZXJsZXZlbDlrIgoKUE9XRVJMRVZFTDlLX1BST01QVF9PTl9ORVdMSU5FPXRydWUKUE9XRVJMRVZFTDlLX1JQUk9NUFRfT05fTkVXTElORT10cnVlClBPV0VSTEVWRUw5S19DT0xPUl9TQ0hFTUU9J2xpZ2h0JwpQT1dFUkxFVkVMOUtfTEVGVF9QUk9NUFRfRUxFTUVOVFM9KHJvb3RfaW5kaWNhdG9yIGRpciBlbnYgdmlfbW9kZSkKUE9XRVJMRVZFTDlLX1JJR0hUX1BST01QVF9FTEVNRU5UUz0oc3RhdHVzIHZjcyBiYXR0ZXJ5IGhpc3RvcnkgdGltZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UE9XRVJMRVZFTDlLX0NPTE9SX1NDSEVNRT0nbGlnaHQnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">UE9XRVJMRVZFTDlLX1BST01QVF9PTl9ORVdMSU5FPXRydWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">UE9XRVJMRVZFTDlLX1JQUk9NUFRfT05fTkVXTElORT10cnVlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IFBPV0VSTElORV9DT05GSUdfQ09NTUFORD1wb3dlcmxpbmUtY29uZmlnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dnVuZGxlLWluaXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IFVCRVJfTERBUF9VSUQ9Y2xpbgpleHBvcnQgR09QQVRIPX4vZ28KcG93ZXJsaW5lLWRhZW1vbiAtcQouIH4vTGlicmFyeS9QeXRob24vMi43L2xpYi9weXRob24vc2l0ZS1wYWNrYWdlcy9wb3dlcmxpbmUvYmluZGluZ3MvenNoL3Bvd2VybGluZS56c2gKCmV4cG9ydCBVQkVSX0hPTUU9L1VzZXJzL2NoZW4vVWJlcgpleHBvcnQgVUJFUl9PV05FUj1jbGluQHViZXIuY29tCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IFBPV0VSTElORV9DT01NQU5EPXBvd2VybGluZQpleHBvcnQgUE9XRVJMSU5FX0NPTkZJR19DT01NQU5EPXBvd2VybGluZS1jb25maWcKZXhwb3J0IFVCRVJfTERBUF9VSUQ9Y2xpbgpleHBvcnQgR09QQVRIPX4vZ28KcG93ZXJsaW5lLWRhZW1vbiAtcQouIH4vTGlicmFyeS9QeXRob24vMi43L2xpYi9weXRob24vc2l0ZS1wYWNrYWdlcy9wb3dlcmxpbmUvYmluZGluZ3MvenNoL3Bvd2VybGluZS56c2gKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBwYWNrYWdlOiBjb2RlLnViZXIuaW50ZXJuYWwvCg==</text>
+        <text encoding="base64">UE9XRVJMRVZFTDlLX0NPTE9SX1NDSEVNRT0nbGlnaHQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBwYWNrYWdlOiBnaXRodWIuY29tL3ViZXIvdGNoYW5uZWwtZ28KICBzdWJwYWNrYWdlczoKICAtIHRocmlmdAo=</text>
+        <text encoding="base64">UE9XRVJMRVZFTDlLX1BST01QVF9PTl9ORVdMSU5FPXRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHgvY29uZmlnCg==</text>
+        <text encoding="base64">UE9XRVJMRVZFTDlLX1JQUk9NUFRfT05fTkVXTElORT10cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIHgvbWV0cmljcwogIC0geC90Y2hhbm5lbAogIC0geC9uZXQveGh0dHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
