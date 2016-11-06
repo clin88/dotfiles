@@ -52,6 +52,11 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/code/tornaduv/vendor/libuv/include/uv.h" timestamp="1478386849563">
+        <mark key="'" line="761" column="7" />
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="48" />
+      </file>
       <file name="$USER_HOME$/code/trident/trident/entities/trip_sub_entity.py" timestamp="1477947180142">
         <mark key="'" line="2" column="24" />
       </file>
@@ -220,6 +225,11 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1478407018514">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="59" />
+      </file>
       <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.c" timestamp="1478235729019">
         <mark key="'" line="13064" column="20" />
       </file>
@@ -255,6 +265,11 @@
       <file name="$USER_HOME$/code/trident/trident/lib/concurrent.py" timestamp="1477937788968">
         <mark key="'" line="29" column="29" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" timestamp="1478228579818">
+        <mark key="'" line="290" column="13" />
+        <mark key="[" line="682" column="8" />
+        <mark key="]" line="682" column="65" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/ioloop_test.py" timestamp="1478225846886">
         <mark key="[" line="434" column="0" />
         <mark key="]" line="434" column="0" />
@@ -274,10 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="213" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="72" column="13" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="212" column="18" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="85" column="18" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="303" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="4" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/includes/uv.pxd" />
@@ -374,16 +385,20 @@
       <jump line="17" column="0" filename="$USER_HOME$/go/src/code.uber.internal/infra/fgtools/glide.yaml" />
       <jump line="93" column="0" filename="$USER_HOME$/.zshrc" />
       <jump line="3" column="22" filename="$USER_HOME$/.zshrc" />
+      <jump line="60" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="0" column="0" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="32" column="23" filename="$USER_HOME$/dotfiles/.zshrc" />
+      <jump line="52" column="8" filename="$USER_HOME$/dotfiles/.zshrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBwYWNrYWdlOiBjb2RlLnViZXIuaW50ZXJuYWwvCg==</text>
+        <text encoding="base64">cGx1Z2lucz0oZ2l0IHB5dGhvbiBwaXAgYXV0b2p1bXAgdmktbW9kZSB2aXJ0dWFsZW52d3JhcHBlcikK</text>
       </register>
       <register name="-" type="4">
         <text>perfmonitor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5hcnlfZGF0YVw+</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjZGVmIGludCBlcnIKICAgICAgICB3aXRoIG5vZ2lsOgogICAgICAgICAgICBlcnIgPSB1di51dl9ydW4oc2VsZi5fbG9vcCwgdXYuVVZfUlVOX0RFRkFVTFQpCgogICAgICAgIGlmIGVyciA8IDA6CiAgICAgICAgICAgIHJhaXNlIGNvbnZlcnRfZXJyb3IoZXJyKQo=</text>
@@ -420,15 +435,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5hcnlfZGF0YVw+</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5hcnlfZGF0YVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>plugin</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1dl9hc3luY19zXD4=</entry>
         <entry encoding="base64">XDx1dl9hc3luY19jYlw+</entry>
         <entry encoding="base64">XDxhc3luY19jYlw+</entry>
         <entry encoding="base64">XDxjeXRob25cPg==</entry>
@@ -448,6 +462,7 @@
         <entry encoding="base64">XDxQcm9maWxlT3B0aW9uc1w+</entry>
         <entry encoding="base64">XDxlbmNvZGVkX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxiaW5hcnlfZGF0YVw+</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
