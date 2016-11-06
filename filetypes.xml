@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".arclint" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
