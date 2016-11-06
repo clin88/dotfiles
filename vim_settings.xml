@@ -52,6 +52,9 @@
       <file name="$USER_HOME$/.virtualenvs/trident/lib/python2.7/site-packages/tornaduv/__init__.py" timestamp="1478040683969">
         <mark key="'" line="211" column="56" />
       </file>
+      <file name="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/idl/code.uber.internal/infra/trident/trident.thrift" timestamp="1478400062704">
+        <mark key="'" line="2957" column="20" />
+      </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/config/development.yaml" timestamp="1476320766994">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -300,6 +303,9 @@
       <file name="$USER_HOME$/code/trident/trident/mappers/thrift_mappers.py" timestamp="1477947195771">
         <mark key="'" line="89" column="26" />
       </file>
+      <file name="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/trident/handlers/meta.py" timestamp="1478400302198">
+        <mark key="'" line="79" column="36" />
+      </file>
       <file name="$USER_HOME$/code/trident/config/sjc1.yaml" timestamp="1478124218440" />
       <file name="$USER_HOME$/code/tornado/tornado/gen.py" timestamp="1477949734916">
         <mark key="'" line="26" column="0" />
@@ -390,12 +396,12 @@
         <mark key="." line="21" column="43" />
         <mark key="^" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" timestamp="1478399161380">
-        <mark key="'" line="290" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="93" column="17" />
+      <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" timestamp="1478399905563">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/go/src/code.uber.internal/infra/perfmonitor/libprof/parse.go" timestamp="1477944420516">
         <mark key="'" line="36" column="0" />
@@ -481,12 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/code/boxer/boxer/click_lib.py" />
-      <jump line="2" column="11" filename="$USER_HOME$/code/tornaduv/tornaduv/includes/uv.pxd" />
-      <jump line="19" column="4" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="146" column="12" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="147" column="30" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
-      <jump line="156" column="19" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="160" column="32" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="165" column="20" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="180" column="12" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
@@ -581,64 +581,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
       <jump line="1" column="0" filename="$USER_HOME$/code/tornaduv/setup.py" />
       <jump line="290" column="0" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
+      <jump line="19" column="16" filename="$USER_HOME$/code/tornaduv/tornaduv/__init__.pyx" />
+      <jump line="454" column="2" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/idl/code.uber.internal/infra/trident/trident.thrift" />
+      <jump line="1990" column="56" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/idl/code.uber.internal/infra/trident/trident.thrift" />
+      <jump line="2957" column="20" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/idl/code.uber.internal/infra/trident/trident.thrift" />
+      <jump line="80" column="69" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/trident/handlers/meta.py" />
+      <jump line="79" column="36" filename="$USER_HOME$/Uber/sync/clin0.dev.uber.com/home/uber/trident/trident/handlers/meta.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgpjZGVmIGV4dGVybiBmcm9tICJ1di5oIjoKICAgIHN0cnVjdCB1dl9yZXFfczoKICAgICAgICBwYXNzCgoK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2JfaGFuZGxlXD4=</text>
+        <text encoding="base64">XDxiaW5hcnlfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjZGVmIGludCBlcnIKICAgICAgICB3aXRoIG5vZ2lsOgogICAgICAgICAgICBlcnIgPSB1di51dl9ydW4oc2VsZi5fbG9vcCwgdXYuVVZfUlVOX0RFRkFVTFQpCgogICAgICAgIGlmIGVyciA8IDA6CiAgICAgICAgICAgIHJhaXNlIGNvbnZlcnRfZXJyb3IoZXJyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVjdXJzaXZlLWMK</text>
+        <text encoding="base64">CgpjZGVmIGV4dGVybiBmcm9tICJ1di5oIjoKICAgIHN0cnVjdCB1dl9yZXFfczoKICAgICAgICBwYXNzCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVjdXJzaXZlLWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgY2RlZiBfcHJlcGFyZShzZWxmKSBleGNlcHQgLTE6CiAgICAgICAgIyBDYWxsYmFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgQ2FsbGJhY2sgZm9yIAo=</text>
+        <text encoding="base64">ICAgIAogICAgY2RlZiBfcHJlcGFyZShzZWxmKSBleGNlcHQgLTE6CiAgICAgICAgIyBDYWxsYmFjawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJbXQo=</text>
+        <text encoding="base64">ICAgICMgQ2FsbGJhY2sgZm9yIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93YWtlciA9IFdha2VyKHNlbGYuX3V2bG9vcCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93YWtlciA9IFdha2VyKHNlbGYuX3V2bG9vcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93YWtlciA9IFdha2VyKHNlbGYuX3V2bG9vcCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2JfaGFuZGxlXD4=</last-search>
+      <last-search encoding="base64">XDxiaW5hcnlfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2JfaGFuZGxlXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxiaW5hcnlfZGF0YVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWduYWxcPg==</entry>
-        <entry encoding="base64">XDxjb252ZXJ0X2Vycm9yXD4=</entry>
-        <entry encoding="base64">XDxfY2FsbGJhY2tfbG9ja1w+</entry>
-        <entry encoding="base64">XDx1dl9hc3luY190XD4=</entry>
         <entry encoding="base64">XDx1dl9hc3luY19zXD4=</entry>
         <entry encoding="base64">XDx1dl9hc3luY19jYlw+</entry>
         <entry encoding="base64">XDxhc3luY19jYlw+</entry>
@@ -655,6 +657,10 @@
         <entry encoding="base64">XDxfY2FsbGJhY2tzXD4=</entry>
         <entry encoding="base64">XDxkZXF1ZVw+</entry>
         <entry encoding="base64">XDxfY2JfaGFuZGxlXD4=</entry>
+        <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
+        <entry encoding="base64">XDxQcm9maWxlT3B0aW9uc1w+</entry>
+        <entry encoding="base64">XDxlbmNvZGVkX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxiaW5hcnlfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
