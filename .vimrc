@@ -25,15 +25,19 @@ Plugin 'Shougo/vimproc', {
 Plugin 'tomtom/tcomment_vim'                    " Automatically add comments
 Plugin 'tpope/vim-repeat'                       " Allows '.' command to cover more stuff.
 Plugin 'tpope/vim-surround'                     " Auto surrounding
-Plugin 'tpope/vim-sensible'                     " Sensible defaults
+if !has("nvim")
+    Plugin 'tpope/vim-sensible'                     " Sensible defaults
+endif
 Plugin 'altercation/vim-colors-solarized'       " Solarized color scheme
 Plugin 'Townk/vim-autoclose'                    " Automatically close {} [] etc.
 Plugin 'ciaranm/detectindent'                   " Automatically set indent settings for every file.
 Plugin 'kien/ctrlp.vim'                         " Ctrl-p and extensions
 Plugin 'airblade/vim-gitgutter'                 " Indicate VCS changes in gutter
-Plugin 'bling/vim-airline'                      " better statusline
-Plugin 'xolox/vim-session'                      " Session management
+" Plugin 'xolox/vim-session'                      " Session management
 Plugin 'xolox/vim-misc'                         " Required for vim-session
+
+Plugin 'vim-airline/vim-airline'                " better statusline
+let g:airline_powerline_fonts = 1               " turn on powerline fonts
 
 """""""""""""""""""""""""""""""""""
   
@@ -81,60 +85,45 @@ vmap <CR> <Plug>(EasyAlign)
 nmap <Leader>a <Plug>(EasyAlign)
 
 """""""""""""""""""""""""""""""""""
-Plugin 'terryma/vim-multiple-cursors'           " Multiple cursors like in Sublime
-
-"""""""""""""""""""""""""""""""""""
-" NeoBundle 'blueyed/vim-diminactive'                " Dim inactive view panes
-
-" }}}
-
-" {{{ DISABLED
-"""""""""""""""""""""""""""""""""""
-" Toggle between relative and absolute line #s
-" NeoBundle "myusuf3/numbers.vim"                             
-" nnoremap <F3> :NumbersToggle<CR>
-" NeoBundle 'Lokaltog/vim-easymotion'                " Quickly jump to things using motions
-" NeoBundle 'spf13/vim-colors'                       " A bunch of color schemes
-" NeoBundle 'goldfeld/vim-seek'                      " vim seek
-" }}}
+Plugin 'terryma/vim-multiple-cursors'                " Multiple cursors like in Sublime
 
 "{{{ HASKELL
 
 """""""""""""""""""""""""""""""""""
 " Tagbar support for Haskell
-if executable('lushtags')
-    let g:tagbar_type_haskell = {
-        \ 'ctagsbin' : 'lushtags',
-        \ 'ctagsargs' : '--ignore-parse-error --',
-        \ 'kinds' : [
-            \ 'm:module:0',
-            \ 'e:exports:1',
-            \ 'i:imports:1',
-            \ 't:declarations:0',
-            \ 'd:declarations:1',
-            \ 'n:declarations:1',
-            \ 'f:functions:0',
-            \ 'c:constructors:0'
-        \ ],
-        \ 'sro' : '.',
-        \ 'kind2scope' : {
-            \ 'd' : 'data',
-            \ 'n' : 'newtype',
-            \ 'c' : 'constructor',
-            \ 't' : 'type'
-        \ },
-        \ 'scope2kind' : {
-            \ 'data' : 'd',
-            \ 'newtype' : 'n',
-            \ 'constructor' : 'c',
-            \ 'type' : 't'
-        \ }
-    \ }
-endif
+" if executable('lushtags')
+"     let g:tagbar_type_haskell = {
+"         \ 'ctagsbin' : 'lushtags',
+"         \ 'ctagsargs' : '--ignore-parse-error --',
+"         \ 'kinds' : [
+"             \ 'm:module:0',
+"             \ 'e:exports:1',
+"             \ 'i:imports:1',
+"             \ 't:declarations:0',
+"             \ 'd:declarations:1',
+"             \ 'n:declarations:1',
+"             \ 'f:functions:0',
+"             \ 'c:constructors:0'
+"         \ ],
+"         \ 'sro' : '.',
+"         \ 'kind2scope' : {
+"             \ 'd' : 'data',
+"             \ 'n' : 'newtype',
+"             \ 'c' : 'constructor',
+"             \ 't' : 'type'
+"         \ },
+"         \ 'scope2kind' : {
+"             \ 'data' : 'd',
+"             \ 'newtype' : 'n',
+"             \ 'constructor' : 'c',
+"             \ 'type' : 't'
+"         \ }
+"     \ }
+" endif
 
 """""""""""""""""""""""""""""""""""
 " Vim2hs
-Plugin 'dag/vim2hs'                             " Haskell extensions
+" Plugin 'dag/vim2hs'                             " Haskell extensions
 let g:haskell_autotags     = 0
 let g:haskell_conceal      = 0
 let g:haskell_conceal_wide = 0
@@ -142,13 +131,6 @@ let g:haskell_conceal_wide = 0
 " }}}
 
 "{{{ PYTHON 
-
-"""""""""""""""""""""""""""""""""""
-" Extended python syntax
-" NeoBundle 'hdima/python-syntax'
-
-" Folding
-" NeoBundle 'vim-scripts/jpythonfold.vim'
 
 """""""""""""""""""""""""""""""""""
 " Python mode
@@ -171,7 +153,6 @@ call vundle#end()
 filetype plugin indent on
 
 " {{{ EDITOR CONFIG
-runtime! plugin/sensible.vim                       " Keeps sensible from overriding my settings
 
 syntax on
 set background=light

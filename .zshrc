@@ -9,12 +9,6 @@ fi
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
-#
-# If powerlevel9k not installed, install it.
-if [[ ! -d .oh-my-zsh/custom/themes/powerlevel9k ]]
-then
-    git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
-fi
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -24,7 +18,7 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(root_indicator virtualenv vi_mode vcs dir)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status battery history time)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status battery history)
 
 
 # Uncomment the following line to use case-sensitive completion.
