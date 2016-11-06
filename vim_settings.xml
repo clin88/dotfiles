@@ -52,11 +52,6 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/code/tornaduv/vendor/libuv/include/uv.h" timestamp="1478386849563">
-        <mark key="'" line="761" column="7" />
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="48" />
-      </file>
       <file name="$USER_HOME$/code/trident/trident/entities/trip_sub_entity.py" timestamp="1477947180142">
         <mark key="'" line="2" column="24" />
       </file>
@@ -225,10 +220,12 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1478407018514">
+      <file name="$USER_HOME$/dotfiles/.zshrc" timestamp="1478407917586">
         <mark key="'" line="52" column="8" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="59" />
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="64" />
+        <mark key="^" line="52" column="64" />
+        <mark key="." line="52" column="64" />
       </file>
       <file name="$USER_HOME$/code/tornaduv/tornaduv/__init__.c" timestamp="1478235729019">
         <mark key="'" line="13064" column="20" />
@@ -264,11 +261,6 @@
       </file>
       <file name="$USER_HOME$/code/trident/trident/lib/concurrent.py" timestamp="1477937788968">
         <mark key="'" line="29" column="29" />
-      </file>
-      <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/testing.py" timestamp="1478228579818">
-        <mark key="'" line="290" column="13" />
-        <mark key="[" line="682" column="8" />
-        <mark key="]" line="682" column="65" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/tornaduv/lib/python2.7/site-packages/tornado/test/ioloop_test.py" timestamp="1478225846886">
         <mark key="[" line="434" column="0" />
