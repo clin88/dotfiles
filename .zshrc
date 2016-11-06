@@ -1,7 +1,20 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/go/bin:$HOME/Library/Python/2.7/bin/:$HOME/bin:/usr/local/bin:$PATH 
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
+
+# If oh-my-zsh not installed, install it.
+if [[ ! -d .oh-my-zsh ]]
+then
+    git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+fi
+
 # Path to your oh-my-zsh installation.
-export ZSH=~/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
+#
+# If powerlevel9k not installed, install it.
+if [[ ! -d .oh-my-zsh/custom/themes/powerlevel9k ]]
+then
+    git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+fi
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -12,6 +25,7 @@ POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(root_indicator virtualenv vi_mode vcs dir)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status battery history time)
+
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -36,12 +50,12 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status battery history time)
 # ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
 # much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
+DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
@@ -55,9 +69,12 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status battery history time)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git python pip autojump vi-mode virtualenvwrapper)
+plugins=(git python pip autojump vi-mode virtualenvwrapper vundle)
 
 source $ZSH/oh-my-zsh.sh
+
+# automatically installs vundle if missing
+vundle-init
 
 # User configuration
 
@@ -77,7 +94,7 @@ source $ZSH/oh-my-zsh.sh
 # export ARCHFLAGS="-arch x86_64"
 
 # ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
+# export SSH_KEY_PATH="~/.ssh/rsa_id"
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
@@ -87,6 +104,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-export UBER_HOME=/Users/chen/Uber
-export UBER_OWNER=clin@uber.com
