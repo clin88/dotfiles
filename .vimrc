@@ -87,6 +87,8 @@ nmap <Leader>a <Plug>(EasyAlign)
 """""""""""""""""""""""""""""""""""
 Plugin 'terryma/vim-multiple-cursors'                " Multiple cursors like in Sublime
 
+"}}}
+
 "{{{ HASKELL
 
 """""""""""""""""""""""""""""""""""
