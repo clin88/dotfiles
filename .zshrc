@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/go/bin:$HOME/bin:/usr/local/bin:$PATH
 
 # If oh-my-zsh not installed, install it.
 if [[ ! -d .oh-my-zsh ]]
@@ -98,3 +98,7 @@ vundle-init
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+export UBER_HOME=/Users/chen/Uber
+export UBER_LDAP_UID=clin
+export GOPATH=/Users/chen/go
