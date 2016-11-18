@@ -17,8 +17,8 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(root_indicator virtualenv vi_mode vcs dir)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status battery history)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context root_indicator virtualenv vi_mode vcs dir)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status history)
 
 
 # Uncomment the following line to use case-sensitive completion.
